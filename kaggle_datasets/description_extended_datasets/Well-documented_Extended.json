@@ -1,0 +1,482 @@
+[
+    {
+        "title": "Gym Members Exercise Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 22 kB",
+        "url": "https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset",
+        "data_description": "This dataset provides a detailed overview of gym members' exercise routines, physical attributes, and fitness metrics. It contains 973 samples of gym data, including key performance indicators such as heart rate, calories burned, and workout duration. Each entry also includes demographic data and experience levels, allowing for comprehensive analysis of fitness patterns, athlete progression, and health trends.\nKey Features:\nAge: Age of the gym member.\nGender: Gender of the gym member (Male or Female).\nWeight (kg): Member’s weight in kilograms.\nHeight (m): Member’s height in meters.\nMax_BPM: Maximum heart rate (beats per minute) during workout sessions.\nAvg_BPM: Average heart rate during workout sessions.\nResting_BPM: Heart rate at rest before workout.\nSession_Duration (hours): Duration of each workout session in hours.\nCalories_Burned: Total calories burned during each session.\nWorkout_Type: Type of workout performed (e.g., Cardio, Strength, Yoga, HIIT)."
+    },
+    {
+        "title": "Pokemon Compendium",
+        "file_type": "Usability 10.0 · 9 Files (CSV) · 146 kB",
+        "url": "https://www.kaggle.com/datasets/noeyislearning/pokdex",
+        "data_description": "This dataset provides a comprehensive overview of various Pokémon versions, including their types, abilities, and base stats. The data is sourced from official Pokémon databases and other relevant sources, offering insights into the characteristics and strengths of each Pokémon.\nPotential Uses\nPokémon Type Analysis: Analyze the distribution and strengths of different Pokémon types.\nStat Comparison: Compare the base stats of different Pokémon to identify their strengths and weaknesses.\nTeam Building: Build optimal Pokémon teams based on type matchups and stat combinations.\nGame Strategy: Develop strategies for Pokémon battles by understanding the abilities and stats of various Pokémon."
+    },
+    {
+        "title": "Twitter Data on #IndonesiaHumanRightsSOS",
+        "file_type": "Usability 9.4 · 5 Files (CSV, other) · 14 MB",
+        "url": "https://www.kaggle.com/datasets/noeyislearning/twitter-data-on-indonesiahumanrightssos",
+        "data_description": "This dataset provides a comprehensive overview of tweets related to the hashtag #IndonesiaHumanRightsSOS from December 18, 2020, 10:59 AM, to December 19, 2020, 23:18 PM. The data is sourced from Twitter using the twint application and offers detailed insights into social media engagement, user activity, and discussions on human rights. The dataset is structured to include key metrics such as user ID, username, Twitter name, tweets, mentions, URLs, photos, replies count, retweets count, likes count, hashtags, cashtags, and more, providing a robust foundation for analyzing social media trends and user behavior.\nKey Features\nUser Identification: The dataset includes unique identifiers for each user, such as user ID, username, and Twitter name, facilitating easy identification and tracking of user activity.\nTemporal Precision: Data is categorized by date and time, offering insights into the timing and frequency of tweets.\nContent Analysis: Information is presented by tweets, mentions, URLs, photos, and hashtags, allowing for detailed analysis of content and engagement patterns.\nEngagement Metrics: The dataset includes metrics such as replies count, retweets count, and likes count, providing insights into user interaction and engagement levels.\nGeolocation: Data includes timezone information, enabling analysis of regional engagement patterns."
+    },
+    {
+        "title": "IMDB Movies Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 179 kB",
+        "url": "https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows",
+        "data_description": "Context\nIMDB Dataset of top 1000 movies and tv shows.\nYou can find the EDA Process on - https://www.kaggle.com/harshitshankhdhar/eda-on-imdb-movies-dataset\nPlease consider UPVOTE if you found it useful.\nContent\nData:-\nPoster_Link - Link of the poster that imdb using\nSeries_Title = Name of the movie\nReleased_Year - Year at which that movie released\nCertificate - Certificate earned by that movie\nRuntime - Total runtime of the movie\nGenre - Genre of the movie\nIMDB_Rating - Rating of the movie at IMDB site\nOverview - mini story/ summary"
+    },
+    {
+        "title": "Life Expectancy (WHO)",
+        "file_type": "Usability 8.2 · 1 File (CSV) · 121 kB",
+        "url": "https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who",
+        "data_description": "Context\nAlthough there have been lot of studies undertaken in the past on factors affecting life expectancy considering demographic variables, income composition and mortality rates. It was found that affect of immunization and human development index was not taken into account in the past. Also, some of the past research was done considering multiple linear regression based on data set of one year for all the countries. Hence, this gives motivation to resolve both the factors stated previously by formulating a regression model based on mixed effects model and multiple linear regression while considering data from a period of 2000 to 2015 for all the countries. Important immunization like Hepatitis B, Polio and Diphtheria will also be considered. In a nutshell, this study will focus on immunization factors, mortality factors, economic factors, social factors and other health related factors as well. Since the observations this dataset are based on different countries, it will be easier for a country to determine the predicting factor which is contributing to lower value of life expectancy. This will help in suggesting a country which area should be given importance in order to efficiently improve the life expectancy of its population.\nContent\nThe project relies on accuracy of data. The Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries The data-sets are made available to public for the purpose of health data analysis. The data-set related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website. Among all categories of health-related factors only those critical factors were chosen which are more representative. It has been observed that in the past 15 years , there has been a huge development in health sector resulting in improvement of human mortality rates especially in the developing nations in comparison to the past 30 years. Therefore, in this project we have considered data from year 2000-2015 for 193 countries for further analysis. The individual data files have been merged together into a single data-set. On initial visual inspection of the data showed some missing values. As the data-sets were from WHO, we found no evident errors. Missing data was handled in R software by using Missmap command. The result indicated that most of the missing data was for population, Hepatitis B and GDP. The missing data were from less known countries like Vanuatu, Tonga, Togo, Cabo Verde etc. Finding all data for these countries was difficult and hence, it was decided that we exclude these countries from the final model data-set. The final merged file(final dataset) consists of 22 Columns and 2938 rows which meant 20 predicting variables. All predicting variables was then divided into several broad categories:Immunization related factors, Mortality factors, Economical factors and Social factors."
+    },
+    {
+        "title": "Boston House Prices",
+        "file_type": "Usability 8.2 · 1 File (CSV) · 13 kB",
+        "url": "https://www.kaggle.com/datasets/vikrishnan/boston-house-prices",
+        "data_description": "Context\nTo Explore more on Regression Algorithm\nContent\nEach record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): CRIM: per capita crime rate by town\nZN: proportion of residential land zoned for lots over 25,000 sq.ft.\nINDUS: proportion of non-retail business acres per town\nCHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)\nNOX: nitric oxides concentration (parts per 10 million)\n1https://archive.ics.uci.edu/ml/datasets/Housing\n123\n20.2. Load the Dataset 124\nRM: average number of rooms per dwelling\nAGE: proportion of owner-occupied units built prior to 1940"
+    },
+    {
+        "title": "Bike Sales  in  Europe",
+        "file_type": "Usability 7.1 · 1 File (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe",
+        "data_description": "In Europe bikes dataset , Extract the insight of sales in each country\nand each state of their countries.\nIn this dataset 18 columns and main column is sales , in this columns\nExtract the value bale and meaningful insight from it\nSales According to male and female or Products\nnumber of each product and its sales and so on."
+    },
+    {
+        "title": "Iris.csv",
+        "file_type": "Usability 4.1 · 1 File (CSV) · 1 kB",
+        "url": "https://www.kaggle.com/datasets/saurabh00007/iriscsv",
+        "data_description": "No description available"
+    },
+    {
+        "title": "Iris Flower Dataset",
+        "file_type": "Usability 8.2 · 1 File (CSV) · 1 kB",
+        "url": "https://www.kaggle.com/datasets/arshid/iris-flower-dataset",
+        "data_description": "Context\nThe Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems. It is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species. The data set consists of 50 samples from each of three species of Iris (Iris Setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.\nThis dataset became a typical test case for many statistical classification techniques in machine learning such as support vector machines\nContent\nThe dataset contains a set of 150 records under 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).\nAcknowledgements\nThis dataset is free and is publicly available at the UCI Machine Learning Repository"
+    },
+    {
+        "title": "Retail Sales Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 12 kB",
+        "url": "https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset",
+        "data_description": "Welcome to the Retail Sales and Customer Demographics Dataset! This synthetic dataset has been meticulously crafted to simulate a dynamic retail environment, providing an ideal playground for those eager to sharpen their data analysis skills through exploratory data analysis (EDA). With a focus on retail sales and customer characteristics, this dataset invites you to unravel intricate patterns, draw insights, and gain a deeper understanding of customer behavior.\n**Dataset Overview:\nThis dataset is a snapshot of a fictional retail landscape, capturing essential attributes that drive retail operations and customer interactions. It includes key details such as Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, and Total Amount. These attributes enable a multifaceted exploration of sales trends, demographic influences, and purchasing behaviors.\nWhy Explore This Dataset?\nRealistic Representation: Though synthetic, the dataset mirrors real-world retail scenarios, allowing you to practice analysis within a familiar context.\nDiverse Insights: From demographic insights to product preferences, the dataset offers a broad spectrum of factors to investigate."
+    },
+    {
+        "title": "GTZAN Dataset - Music Genre Classification",
+        "file_type": "Usability 8.8 · 2001 Files (other, CSV) · 1 GB",
+        "url": "https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification",
+        "data_description": "Context\nMusic. Experts have been trying for a long time to understand sound and what differenciates one song from another. How to visualize sound. What makes a tone different from another.\nThis data hopefully can give the opportunity to do just that.\nContent\ngenres original - A collection of 10 genres with 100 audio files each, all having a length of 30 seconds (the famous GTZAN dataset, the MNIST of sounds)\nimages original - A visual representation for each audio file. One way to classify data is through neural networks. Because NNs (like CNN, what we will be using today) usually take in some sort of image representation, the audio files were converted to Mel Spectrograms to make this possible.\n2 CSV files - Containing features of the audio files. One file has for each song (30 seconds long) a mean and variance computed over multiple features that can be extracted from an audio file. The other file has the same structure, but the songs were split before into 3 seconds audio files (this way increasing 10 times the amount of data we fuel into our classification models). With data, more is always better."
+    },
+    {
+        "title": "Employee dataset",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 19 kB",
+        "url": "https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset",
+        "data_description": "Context:\nThis dataset contains information about employees in a company, including their educational backgrounds, work history, demographics, and employment-related factors. It has been anonymized to protect privacy while still providing valuable insights into the workforce.\nColumns:\nEducation: The educational qualifications of employees, including degree, institution, and field of study.\nJoining Year: The year each employee joined the company, indicating their length of service.\nCity: The location or city where each employee is based or works.\nPayment Tier: Categorization of employees into different salary tiers."
+    },
+    {
+        "title": "Groceries dataset ",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 263 kB",
+        "url": "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "data_description": "Association Rule Mining\nMarket Basket Analysis is one of the key techniques used by large retailers to uncover associations between items. It works by looking for combinations of items that occur together frequently in transactions. To put it another way, it allows retailers to identify relationships between the items that people buy.\nAssociation Rules are widely used to analyze retail basket or transaction data and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.\nDetails of the dataset\nThe dataset has 38765 rows of the purchase orders of people from the grocery stores. These orders can be analysed and association rules can be generated using Market Basket Analysis by algorithms like Apriori Algorithm.\nApriori Algorithm\nApriori is an algorithm for frequent itemset mining and association rule learning over relational databases. It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database. The frequent itemsets determined by Apriori can be used to determine association rules which highlight general trends in the database: this has applications in domains such as market basket analysis."
+    },
+    {
+        "title": "Flight Price Prediction",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 4 MB",
+        "url": "https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction",
+        "data_description": "INTRODUCTION\nThe objective of the study is to analyse the flight booking dataset obtained from “Ease My Trip” website and to conduct various statistical hypothesis tests in order to get meaningful information from it. The 'Linear Regression' statistical algorithm would be used to train the dataset and predict a continuous target variable. 'Easemytrip' is an internet platform for booking flight tickets, and hence a platform that potential passengers use to buy tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers.\nResearch Questions\nThe aim of our study is to answer the below research questions:\na) Does price vary with Airlines?\nb) How is the price affected when tickets are bought in just 1 or 2 days before departure?\nc) Does ticket price change based on the departure time and arrival time?\nd) How the price changes with change in Source and Destination?\ne) How does the ticket price vary between Economy and Business class?"
+    },
+    {
+        "title": "🎹 Spotify Tracks Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 9 MB",
+        "url": "https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset",
+        "data_description": "Content\nThis is a dataset of Spotify tracks over a range of 125 different genres. Each track has some audio features associated with it. The data is in CSV format which is tabular and can be loaded quickly.\nUsage\nThe dataset can be used for:\nBuilding a Recommendation System based on some user input or preference\nClassification purposes based on audio features and available genres\nAny other application that you can think of. Feel free to discuss!\nColumn Description\ntrack_id: The Spotify ID for the track\nartists: The artists' names who performed the track. If there is more than one artist, they are separated by a ;"
+    },
+    {
+        "title": "IT Job Market Insights",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 45 kB",
+        "url": "https://www.kaggle.com/datasets/noeyislearning/it-job-market-insights",
+        "data_description": "This dataset provides a comprehensive overview of various companies, including their ratings, number of reviews, job postings, interview experiences, and specific areas where they are highly rated or critically rated. The data is sourced from employee reviews and other relevant sources, offering insights into the overall sentiment and specific aspects of working at these companies.\nPotential Uses\nEmployee Sentiment Analysis: Analyze the overall sentiment of employees towards different companies.\nCompany Comparison: Compare companies based on their ratings, reviews, and specific attributes.\nJob Market Analysis: Understand the job market dynamics by looking at the number of job postings and interview experiences.\nCompany Improvement Insights: Identify areas where companies may need to improve based on critical ratings."
+    },
+    {
+        "title": "Data Science Job Salaries",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 8 kB",
+        "url": "https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries",
+        "data_description": "Content\nColumn Description\nwork_year The year the salary was paid.\nexperience_level The experience level in the job during the year with the following possible values: EN Entry-level / Junior MI Mid-level / Intermediate SE Senior-level / Expert EX Executive-level / Director\nemployment_type The type of employement for the role: PT Part-time FT Full-time CT Contract FL Freelance\njob_title The role worked in during the year.\nsalary The total gross salary amount paid.\nsalary_currency The currency of the salary paid as an ISO 4217 currency code."
+    },
+    {
+        "title": "Mental Health",
+        "file_type": "Usability 10.0 · 7 Files (CSV) · 346 kB",
+        "url": "https://www.kaggle.com/datasets/imtkaggleteam/mental-health",
+        "data_description": "Mental health is an essential part of people’s lives and society. Poor mental health affects our well-being, our ability to work, and our relationships with friends, family, and community.\nMental health conditions are not uncommon. Hundreds of millions suffer from them yearly, and many more do over their lifetimes. It’s estimated that 1 in 3 women and 1 in 5 men will experience major depression in their lives. Other conditions, such as schizophrenia and bipolar disorder, are less common but still have a large impact on people’s lives.\nMental health data based on surveys\nAside from the formal diagnoses, mental illnesses can be measured using surveys and screening questionnaires.\nThese tend to ask people about symptoms similar to those in diagnostic manuals, but they can be used more easily and widely because the data does not need to be collected by a healthcare professional.\nWhat are the strengths and limitations of survey data?\nStrengths of survey data\nSurvey data on mental health has two major strengths.\nFirst, it involves structured interviews – people are asked a consistent set of questions regardless of their interviewer. This helps to ensure the data is more comparable between interviewers and across time.12\nSecond, surveys include a much wider range of people in the population, including those who would not seek treatment due to a lack of awareness, costs, or other concerns."
+    },
+    {
+        "title": " Student Performance Data Set",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 12 kB",
+        "url": "https://www.kaggle.com/datasets/larsen0966/student-performance-data-set",
+        "data_description": "If this Data Set is useful, and upvote is appreciated. This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por). In [Cortez and Silva, 2008], the two datasets were modeled under binary/five-level classification and regression tasks. Important note: the target attribute G3 has a strong correlation with attributes G2 and G1. This occurs because G3 is the final year grade (issued at the 3rd period), while G1 and G2 correspond to the 1st and 2nd-period grades. It is more difficult to predict G3 without G2 and G1, but such prediction is much more useful (see paper source for more details)."
+    },
+    {
+        "title": "Novel Corona Virus 2019 Dataset",
+        "file_type": "Usability 9.7 · 6 Files (CSV) · 9 MB",
+        "url": "https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset",
+        "data_description": "Context\nFrom World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.\nSo daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.\nJohns Hopkins University has made an excellent dashboard using the affected cases data. Data is extracted from the google sheets associated and made available here.\nEdited:\nNow data is available as csv files in the Johns Hopkins Github repository. Please refer to the github repository for the Terms of Use details. Uploading it here for using it in Kaggle kernels and getting insights from the broader DS community.\nContent\n2019 Novel Coronavirus (2019-nCoV) is a virus (more specifically, a coronavirus) identified as the cause of an outbreak of respiratory illness first detected in Wuhan, China. Early on, many of the patients in the outbreak in Wuhan, China reportedly had some link to a large seafood and animal market, suggesting animal-to-person spread. However, a growing number of patients reportedly have not had exposure to animal markets, indicating person-to-person spread is occurring. At this time, it’s unclear how easily or sustainably this virus is spreading between people -"
+    },
+    {
+        "title": "Book Recommendation Dataset",
+        "file_type": "Usability 10.0 · 6 Files (CSV, other) · 26 MB",
+        "url": "https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset",
+        "data_description": "Context\nDuring the last few decades, with the rise of Youtube, Amazon, Netflix and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.\nIn a very general way, recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy or anything else depending on industries).\nRecommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors. As a proof of the importance of recommender systems, we can mention that, a few years ago, Netflix organised a challenges (the “Netflix prize”) where the goal was to produce a recommender system that performs better than its own algorithm with a prize of 1 million dollars to win."
+    },
+    {
+        "title": "Car Object Detection",
+        "file_type": "Usability 8.8 · 1178 Files (other, CSV) · 118 MB",
+        "url": "https://www.kaggle.com/datasets/sshikamaru/car-object-detection",
+        "data_description": "Context\nYOLO (\"you only look once\") is a popular algoritm because it achieves high accuracy while also being able to run in real-time, almost clocking 45 frames per second. A smaller version of the network, Fast YOLO, processes an astounding 155 frames per second while still achieving double the mAP of other real-time detectors. This algorithm \"only looks once\" at the image in the sense that it requires only one forward propagation pass through the network to make predictions. After non-max suppression, it then outputs recognized objects together with the bounding boxes.\nContent\nThe dataset contains media of cars in all views, and your job is to create an algorithm to detect them!\nAcknowledgements\nI got this dataset from TJHSST from one of the competitions they hosted."
+    },
+    {
+        "title": "LinkedIn Job Postings (2023 - 2024)",
+        "file_type": "Usability 10.0 · 11 Files (CSV) · 166 MB",
+        "url": "https://www.kaggle.com/datasets/arshkon/linkedin-job-postings",
+        "data_description": "Description\nScraper Code - https://github.com/ArshKA/LinkedIn-Job-Scraper\nEvery day, thousands of companies and individuals turn to LinkedIn in search of talent. This dataset contains a nearly comprehensive record of 124,000+ job postings listed in 2023 and 2024. Each individual posting contains dozens of valuable attributes for both postings and companies, including the title, job description, salary, location, application URL, and work-types (remote, contract, etc), in addition to separate files containing the benefits, skills, and industries associated with each posting. The majority of jobs are also linked to a company, which are all listed in another csv file containing attributes such as the company description, headquarters location, and number of employees, and follower count.\nWith so many datapoints, the potential for exploration of this dataset is vast and includes exploring the highest compensated titles, companies, and locations; predicting salaries/benefits through NLP; and examining how industries and companies vary through their internship offerings and benefits. Future updates will permit further exploration into time-based trends, including company growth, prevalence of remote jobs, and demand of individual job titles over time."
+    },
+    {
+        "title": "Credit score classification",
+        "file_type": "Usability 9.4 · 2 Files (CSV) · 10 MB",
+        "url": "https://www.kaggle.com/datasets/parisrohan/credit-score-classification",
+        "data_description": "Problem Statement\nYou are working as a data scientist in a global finance company. Over the years, the company has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts.\nTask\nGiven a person’s credit-related information, build a machine learning model that can classify the credit score."
+    },
+    {
+        "title": "Paris 2024 Olympic Summer Games",
+        "file_type": "Usability 10.0 · 58 Files (CSV) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games",
+        "data_description": "Dataset is completed! Data was updated daily during the Olympic!\n\nYou can support the dataset via the upvote button!\nThe Paris 2024 Olympic Summer Games dataset provides comprehensive information about the Summer Olympics held in 2024. It covers various aspects of the event, including participating countries, athletes, sports disciplines, medal standings, and key event details. More about the Olympic Games on the official site Olympics Paris 2024 and Wiki.\nDataset Structure\nTable Description Note\nathletes.csv personal information about all athletes released\ncoaches.csv personal information about all coaches released\nevents.csv all events that had a place released"
+    },
+    {
+        "title": "  Logistic regression To predict heart disease",
+        "file_type": "Usability 7.1 · 1 File (CSV) · 60 kB",
+        "url": "https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression",
+        "data_description": "LOGISTIC REGRESSION - HEART DISEASE PREDICTION\nIntroduction\nWorld Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression\nData Preparation\nSource\nThe dataset is publically available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.\nVariables\nEach attribute is a potential risk factor. There are both demographic, behavioral and medical risk factors."
+    },
+    {
+        "title": "Diamonds",
+        "file_type": "Usability 7.6 · 1 File (CSV) · 751 kB",
+        "url": "https://www.kaggle.com/datasets/shivam2503/diamonds",
+        "data_description": "Context\nThis classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.\nContent\nprice price in US dollars (\\$326--\\$18,823)\ncarat weight of the diamond (0.2--5.01)\ncut quality of the cut (Fair, Good, Very Good, Premium, Ideal)\ncolor diamond colour, from J (worst) to D (best)\nclarity a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))\nx length in mm (0--10.74)\ny width in mm (0--58.9)\nz depth in mm (0--31.8)\ndepth total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)"
+    },
+    {
+        "title": "World Population Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 16 kB",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset",
+        "data_description": "Context\nThe current US Census Bureau world population estimate in June 2019 shows that the current global population is 7,577,130,400 people on earth, which far exceeds the world population of 7.2 billion in 2015. Our own estimate based on UN data shows the world's population surpassing 7.7 billion.\nChina is the most populous country in the world with a population exceeding 1.4 billion. It is one of just two countries with a population of more than 1 billion, with India being the second. As of 2018, India has a population of over 1.355 billion people, and its population growth is expected to continue through at least 2050. By the year 2030, the country of India is expected to become the most populous country in the world. This is because India’s population will grow, while China is projected to see a loss in population.\nThe following 11 countries that are the most populous in the world each have populations exceeding 100 million. These include the United States, Indonesia, Brazil, Pakistan, Nigeria, Bangladesh, Russia, Mexico, Japan, Ethiopia, and the Philippines. Of these nations, all are expected to continue to grow except Russia and Japan, which will see their populations drop by 2030 before falling again significantly by 2050.\nMany other nations have populations of at least one million, while there are also countries that have just thousands. The smallest population in the world can be found in Vatican City, where only 801 people reside."
+    },
+    {
+        "title": "Boston housing dataset",
+        "file_type": "Usability 5.9 · 1 File (CSV) · 12 kB",
+        "url": "https://www.kaggle.com/datasets/altavish/boston-housing-dataset",
+        "data_description": "Domain: Real Estate\nDifficulty: Easy to Medium\nChallenges:\nMissing value treatment\nOutlier treatment\nUnderstanding which variables drive the price of homes in Boston\nSummary:\nThe Boston housing dataset contains 506 observations and 14 variables. The dataset contains missing values."
+    },
+    {
+        "title": "Weather Dataset",
+        "file_type": "Usability 2.9 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/muthuj7/weather-dataset",
+        "data_description": "No description available"
+    },
+    {
+        "title": "Car sales ",
+        "file_type": "Usability 5.9 · 1 File (CSV) · 7 kB",
+        "url": "https://www.kaggle.com/datasets/gagandeep16/car-sales",
+        "data_description": "This is the Car sales data set which include information about different cars . This data set is being taken from the Analytixlabs for the purpose of prediction\nIn this we have to see two things\nFirst we have see which feature has more impact on car sales and carry out result of this\nSecondly we have to train the classifier and to predict car sales and check the accuracy of the prediction."
+    },
+    {
+        "title": "Time Series Datasets",
+        "file_type": "Usability 1.8 · 4 Files (CSV) · 20 kB",
+        "url": "https://www.kaggle.com/datasets/shenba/time-series-datasets",
+        "data_description": "No description available"
+    },
+    {
+        "title": "Default of Credit Card Clients Dataset",
+        "file_type": "Usability 7.1 · 1 File (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset",
+        "data_description": "Dataset Information\nThis dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.\nContent\nThere are 25 variables:\nID: ID of each client\nLIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit\nSEX: Gender (1=male, 2=female)\nEDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)\nMARRIAGE: Marital status (1=married, 2=single, 3=others)\nAGE: Age in years\nPAY_0: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months, … 8=payment delay for eight months, 9=payment delay for nine months and above)"
+    },
+    {
+        "title": "30000 Spotify Songs",
+        "file_type": "Usability 10.0 · 2 Files (CSV, other) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs",
+        "data_description": "Almost 30,000 Songs from the Spotify API. See the readme file for a formatted data dictionary table.\nData Dictionary:\nvariable class description\ntrack_id character Song unique ID\ntrack_name character Song Name\ntrack_artist character Song Artist\ntrack_popularity double Song Popularity (0-100) where higher is better\ntrack_album_id character Album unique ID\ntrack_album_name character Song album name"
+    },
+    {
+        "title": "Real estate price prediction",
+        "file_type": "Usability 4.7 · 1 File (CSV) · 7 kB",
+        "url": "https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction",
+        "data_description": "No description available"
+    },
+    {
+        "title": "Credit Risk Dataset",
+        "file_type": "Usability 7.1 · 1 File (CSV) · 377 kB",
+        "url": "https://www.kaggle.com/datasets/laotse/credit-risk-dataset",
+        "data_description": "Detailed data description of Credit Risk dataset:\nFeature Name Description\nperson_age Age\nperson_income Annual Income\nperson_home_ownership Home ownership\nperson_emp_length Employment length (in years)\nloan_intent Loan intent\nloan_grade Loan grade\nloan_amnt Loan amount"
+    },
+    {
+        "title": "Indian Startup Funding",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 123 kB",
+        "url": "https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding",
+        "data_description": "Context\nInterested in the Indian startup ecosystem just like me? Wanted to know what type of startups are getting funded in the last few years? Wanted to know who are the important investors? Wanted to know the hot fields that get a lot of funding these days?\nThis dataset is a chance to explore the Indian start up scene. Deep dive into funding data and derive insights into the future!\nContent\nThis dataset has funding information of the Indian startups from January 2015 to August 2017. It includes columns with the date funded, the city the startup is based out of, the names of the funders, and the amount invested (in USD).\nFor more information on the values of individual fields, check out the Column Metadata.\nAcknowledgements\nThanks to trak.in who are generous enough to share the data publicly for free.\nInspiration\nPossible questions which could be answered are:"
+    },
+    {
+        "title": "Heart Disease Health Indicators Dataset",
+        "file_type": "Usability 9.4 · 3 MB",
+        "url": "https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset",
+        "data_description": "Context\nHeart Disease is among the most prevalent chronic diseases in the United States, impacting millions of Americans each year and exerting a significant financial burden on the economy. In the United States alone, heart disease claims roughly 647,000 lives each year — making it the leading cause of death. The buildup of plaques inside larger coronary arteries, molecular changes associated with aging, chronic inflammation, high blood pressure, and diabetes are all causes of and risk factors for heart disease.\nWhile there are different types of coronary heart disease, the majority of individuals only learn they have the disease following symptoms such as chest pain, a heart attack, or sudden cardiac arrest. This fact highlights the importance of preventative measures and tests that can accurately predict heart disease in the population prior to negative outcomes like myocardial infarctions (heart attacks) taking place.\nThe Centers for Disease Control and Prevention has identified high blood pressure, high blood cholesterol, and smoking as three key risk factors for heart disease. Roughly half of Americans have at least one of these three risk factors. The National Heart, Lung, and Blood Institute highlights a wider array of factors such as Age, Environment and Occupation, Family History and Genetics, Lifestyle Habits, Other Medical Conditions, Race or Ethnicity, and Sex for clinicians to use in diagnosing coronary heart disease. Diagnosis tends to be driven by an initial survey of these common risk factors followed by bloodwork and other tests."
+    },
+    {
+        "title": "Movie Industry",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 434 kB",
+        "url": "https://www.kaggle.com/datasets/danielgrijalvas/movies",
+        "data_description": "Context\nIs the movie industry dying? is Netflix the new entertainment king? Those were the first questions that lead me to create a dataset\nfocused on movie revenue and analyze it over the last decades. But, why stop there? There are more factors that intervene in this\nkind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the\nmovie industry, and get answers.\nContent\nThere are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:\nbudget: the budget of a movie. Some movies don't have this, so it appears as 0\ncompany: the production company"
+    },
+    {
+        "title": "Students Exam Scores: Extended Dataset",
+        "file_type": "Usability 10.0 · 2 Files (CSV) · 711 kB",
+        "url": "https://www.kaggle.com/datasets/desalegngeb/students-exam-scores",
+        "data_description": "This dataset includes scores from three test scores of students at a (fictional) public school and a variety of personal and socio-economic factors that may have interaction effects upon them.\nRemark/warning/disclaimer:\nThis datasets are fictional and should be used for educational purposes only.\nThe original dataset generator creator is Mr. Royce Kimmons\nThere are similar datasets on kaggle already but this one is different and arguably better in two ways.\n-> 1) has more data (>30k instead of just the 1k the other datasets have),\n-> 2) has extended datasets with more features (15 instead of 9) and has missing values which makes it ideal for data cleaning and data preprocessing.\nData Dictionary (column description)\nGender: Gender of the student (male/female)\nEthnicGroup: Ethnic group of the student (group A to E)\nParentEduc: Parent(s) education background (from some_highschool to master's degree)\nLunchType: School lunch type (standard or free/reduced)"
+    },
+    {
+        "title": "Walmart Sales Forecast ",
+        "file_type": "Usability 10.0 · 4 Files (CSV) · 4 MB",
+        "url": "https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast",
+        "data_description": "Walmart Sales Forecast"
+    },
+    {
+        "title": "Hotel Booking ",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 5 MB",
+        "url": "https://www.kaggle.com/datasets/mojtaba142/hotel-booking",
+        "data_description": "Context\nThis dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were canceled.\nContent\nSince this is hotel real data, all data elements pertaining hotel or costumer identification were deleted.\nFour Columns, 'name', 'email', 'phone number' and 'credit_card' have been artificially created and added to the dataset.\nAcknowledgements\nThe data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.\nInspiration\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?"
+    },
+    {
+        "title": "Hate Speech and Offensive Language Dataset",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset",
+        "data_description": "Dataset using Twitter data, is was used to research hate-speech detection. The text is classified as: hate-speech, offensive language, and neither. Due to the nature of the study, it’s important to note that this dataset contains text that can be considered racist, sexist, homophobic, or generally offensive."
+    },
+    {
+        "title": "Fetal Health Classification",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 47 kB",
+        "url": "https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification",
+        "data_description": "Abstract\nClassify fetal health in order to prevent child and maternal mortality.\nAbout this dataset\nContext\nReduction of child mortality is reflected in several of the United Nations' Sustainable Development Goals and is a key indicator of human progress.\nThe UN expects that by 2030, countries end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce under‑5 mortality to at least as low as 25 per 1,000 live births.\nParallel to notion of child mortality is of course maternal mortality, which accounts for 295 000 deaths during and following pregnancy and childbirth (as of 2017). The vast majority of these deaths (94%) occurred in low-resource settings, and most could have been prevented.\nIn light of what was mentioned above, Cardiotocograms (CTGs) are a simple and cost accessible option to assess fetal health, allowing healthcare professionals to take action in order to prevent child and maternal mortality. The equipment itself works by sending ultrasound pulses and reading its response, thus shedding light on fetal heart rate (FHR), fetal movements, uterine contractions and more."
+    },
+    {
+        "title": "Bank Customer Churn Dataset ",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 192 kB",
+        "url": "https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset",
+        "data_description": "This dataset is for ABC Multistate bank with following columns:\ncustomer_id, unused variable.\ncredit_score, used as input.\ncountry, used as input.\ngender, used as input.\nage, used as input.\ntenure, used as input.\nbalance, used as input.\nproducts_number, used as input.\ncredit_card, used as input.\nactive_member, used as input.\nestimated_salary, used as input.\nchurn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.\nAim is to Predict the Customer Churn for ABC Bank."
+    },
+    {
+        "title": "Loan Prediction Problem Dataset",
+        "file_type": "Usability 1.8 · 2 Files (CSV) · 13 kB",
+        "url": "https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset",
+        "data_description": "No description available"
+    },
+    {
+        "title": "Netflix Data: Cleaning, Analysis and Visualization",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 277 kB",
+        "url": "https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization",
+        "data_description": "Netflix is a popular streaming service that offers a vast catalog of movies, TV shows, and original contents. This dataset is a cleaned version of the original version which can be found here. The data consist of contents added to Netflix from 2008 to 2021. The oldest content is as old as 1925 and the newest as 2021. This dataset will be cleaned with PostgreSQL and visualized with Tableau. The purpose of this dataset is to test my data cleaning and visualization skills. The cleaned data can be found below and the Tableau dashboard can be found here .\nData Cleaning\nWe are going to:\nTreat the Nulls\nTreat the duplicates\nPopulate missing rows\nDrop unneeded columns\nSplit columns\nExtra steps and more explanation on the process will be explained through the code comments"
+    },
+    {
+        "title": "Obesity Levels",
+        "file_type": "Usability 8.8 · 1 File (CSV) · 59 kB",
+        "url": "https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels",
+        "data_description": "Obesity\nObesity, which causes physical and mental problems, is a global health problem with serious consequences. The prevalence of obesity is increasing steadily, and therefore, new research is needed that examines the influencing factors of obesity and how to predict the occurrence of the condition according to these factors.\n\" https://www.semanticscholar.org/paper/Estimation-of-Obesity-Levels-with-a-Trained-Neural-Ya%C4%9F%C4%B1n-G%C3%BCl%C3%BC/2c1eab51db154493d225c8b86ba885bbaf147a2c \"\nDataset Information\nThis dataset include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia, based on their eating habits and physical condition. The data contains 17 attributes and 2111 records, the records are labeled with the class variable NObesity (Obesity Level), that allows classification of the data using the values of Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II and Obesity Type III. 77% of the data was generated synthetically using the Weka tool and the SMOTE filter, 23% of the data was collected directly from users through a web platform.\nGender: Feature, Categorical, \"Gender\"\nAge : Feature, Continuous, \"Age\"\nHeight: Feature, Continuous\nWeight: Feature Continuous\nfamily_history_with_overweight: Feature, Binary, \" Has a family member suffered or suffers from overweight? \""
+    },
+    {
+        "title": "London bike sharing dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 169 kB",
+        "url": "https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset",
+        "data_description": "License\nThese licence terms and conditions apply to TfL's free transport data service and are based on version 2.0 of the Open Government Licence with specific amendments for Transport for London (the \"Licence\"). TfL may at any time revise this Licence without notice. It is up to you (\"You\") to regularly review the Licence, which will be available on this website, in case there are any changes. Your continued use of the transport data feeds You have opted to receive (\"Information\") after a change has been made to the Licence will be treated as Your acceptance of that change.\nUsing Information under this Licence\nTfL grants You a worldwide, royalty-free, perpetual, non-exclusive Licence to use the Information subject to the conditions below (as varied from time to time).\nThis Licence does not affect Your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations.\nThis Licence shall apply from the date of registration and shall continue for the period the Information is provided to You or You breach the Licence.\nRights\nYou are free to:"
+    },
+    {
+        "title": "HR Analytics",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 51 kB",
+        "url": "https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction",
+        "data_description": "HR Analytics helps us with interpreting organizational data. It finds the people-related trends in the data and allows the HR Department to take the appropriate steps to keep the organization running smoothly and profitably. Attrition in a corporate setup is one of the complex challenges that the people managers and the HRs personnel have to deal with.\nInterestingly, machine learning models can be deployed to predict potential attrition cases, helping the appropriate HR Personnel take the necessary steps to retain the employee.\n**Tasks to perform: **\nData Cleaning:\nDeleting redundant columns.\nRenaming the columns.\nDropping duplicates.\nCleaning individual columns.\nRemove the NaN values from the dataset\nCheck for some more Transformations"
+    },
+    {
+        "title": "Edge-IIoTset Cyber Security Dataset of IoT & IIoT",
+        "file_type": "Usability 7.5 · 52 Files (CSV, other) · 2 GB",
+        "url": "https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot",
+        "data_description": "Great news! The Edge-IIoT dataset has been featured as a \"Document in the top 1% of Web of Science.\" This indicates that it is ranked within the top 1% of all publications indexed by the Web of Science (WoS) in terms of citations and impact."
+    },
+    {
+        "title": "Healthcare NLP: LLMs, Transformers, Datasets",
+        "file_type": "Usability 9.4 · 11090 Files (other, CSV, JSON) · 30 GB",
+        "url": "https://www.kaggle.com/datasets/jpmiller/layoutlm",
+        "data_description": "Improving healthcare is one of the most promising and meaningful applications of data science. This dataset includes data and NLP-type models, including LLMs, to accomplish a variety of tasks:\nsequence to sequence\nsummarization\nq & a\ntoken labeling\ntext classification\nother!\nThere are three categories of models here:\nLarge Language Models for healthcare\nTransformers tailored for medical applications\nLayoutLM transformers for semi-structured documents such as patient forms\nThe data files are from MedQuAD: the Medical Question Answering Dataset. It's well-suited for use with the models."
+    },
+    {
+        "title": "Automobile Sales data",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 81 kB",
+        "url": "https://www.kaggle.com/datasets/ddosad/auto-sales-data",
+        "data_description": "The dataset contains Sales data of an Automobile company.\nDo explore pinned 📌 notebook under code section for quick EDA📊 reference\nConsider an upvote ^ if you find the dataset useful\nData Description\nColumn Name Description\nORDERNUMBER This column represents the unique identification number assigned to each order.\nQUANTITYORDERED It indicates the number of items ordered in each order.\nPRICEEACH This column specifies the price of each item in the order.\nORDERLINENUMBER It represents the line number of each item within an order."
+    },
+    {
+        "title": "Solar Power Generation Data",
+        "file_type": "Usability 10.0 · 4 Files (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/anikannal/solar-power-generation-data",
+        "data_description": "This data has been gathered at two solar power plants in India over a 34 day period. It has two pairs of files - each pair has one power generation dataset and one sensor readings dataset. The power generation datasets are gathered at the inverter level - each inverter has multiple lines of solar panels attached to it. The sensor data is gathered at a plant level - single array of sensors optimally placed at the plant.\nThere are a few areas of concern at the solar power plant -\nCan we predict the power generation for next couple of days? - this allows for better grid management\nCan we identify the need for panel cleaning/maintenance?\nCan we identify faulty or suboptimally performing equipment?"
+    },
+    {
+        "title": "Credit Card Fraud ",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 30 MB",
+        "url": "https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud",
+        "data_description": "Digital payments are evolving, but so are cyber criminals.\nAccording to the Data Breach Index, more than 5 million records are being stolen on a daily basis, a concerning statistic that shows - fraud is still very common both for Card-Present and Card-not Present type of payments.\nIn today’s digital world where trillions of Card transaction happens per day, detection of fraud is challenging.\nThis Dataset sourced by some unnamed institute.\nFeature Explanation:\ndistance_from_home - the distance from home where the transaction happened.\ndistance_from_last_transaction - the distance from last transaction happened.\nratio_to_median_purchase_price - Ratio of purchased price transaction to median purchase price."
+    },
+    {
+        "title": "Polycystic ovary syndrome (PCOS)",
+        "file_type": "Usability 9.1 · 2 Files (other, CSV) · 123 kB",
+        "url": "https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos",
+        "data_description": "If you reach this DATASET, please UPVOTE this dataset to show your appreciation\nPolycystic ovary syndrome is a disorder involving infrequent, irregular or prolonged menstrual periods, and often excess male hormone (androgen) levels. The ovaries develop numerous small collections of fluid — called follicles — and may fail to regularly release eggs\ndataset contains all physical and clinical parameters to determine PCOS and infertility related issues .\ndata is collect from 10 different hospital across Kerala,India.\nall the best and don't forget to upvote the dataset👍\n\nI encourage you to use this Dataset to start your own projects. If you do, please cite the Dataset:\nauthor = {Prasoon Kottarathil},\ntitle = {Polycystic ovary syndrome (PCOS)},\nyear = {2020},\npublisher = {kaggle},\njournal = {Kaggle Dataset},\nhow published = {\\url{"
+    },
+    {
+        "title": "Framingham heart study dataset ",
+        "file_type": "Usability 5.3 · 1 File (CSV) · 59 kB",
+        "url": "https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset",
+        "data_description": "The \"Framingham\" heart disease dataset includes over 4,240 records,16 columns and 15 attributes. The goal of the dataset is to predict whether the patient has 10-year risk of future (CHD) coronary heart disease"
+    },
+    {
+        "title": "Coffee Quality Data (CQI May-2023)",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 22 kB",
+        "url": "https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi",
+        "data_description": "Coffee Quality Institute\nThe Coffee Quality Institute (CQI) is a non-profit organization that works to improve the quality and value of coffee worldwide. It was founded in 1996 and has its headquarters in California, USA.\nCQI's mission is to promote coffee quality through a range of activities that include research, training, and certification programs. The organization works with coffee growers, processors, roasters, and other stakeholders to improve coffee quality standards, promote sustainability, and support the development of the specialty coffee industry.\nData\nCQI maintains a web database that serves as a resource for coffee professionals and enthusiasts who are interested in learning about coffee quality and sustainability. The database includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality.\nSensory evaluations (coffee quality scores)"
+    },
+    {
+        "title": "Diabetes, Hypertension and Stroke Prediction",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/prosperchuks/health-dataset",
+        "data_description": "All datasets are cleaned, augmented, and have balanced classes.\nData Sources:\ndiabetes_data\nhypertension_data\nstroke_data"
+    },
+    {
+        "title": " HEALTHCARE PROVIDER FRAUD DETECTION ANALYSIS",
+        "file_type": "Usability 6.5 · 8 Files (CSV) · 27 MB",
+        "url": "https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis",
+        "data_description": "Project Objectives\nProvider Fraud is one of the biggest problems facing Medicare. According to the government, the total Medicare spending increased exponentially due to frauds in Medicare claims. Healthcare fraud is an organized crime which involves peers of providers, physicians, beneficiaries acting together to make fraud claims.\nRigorous analysis of Medicare data has yielded many physicians who indulge in fraud. They adopt ways in which an ambiguous diagnosis code is used to adopt costliest procedures and drugs. Insurance companies are the most vulnerable institutions impacted due to these bad practices. Due to this reason, insurance companies increased their insurance premiums and as result healthcare is becoming costly matter day by day.\nHealthcare fraud and abuse take many forms. Some of the most common types of frauds by providers are:\na) Billing for services that were not provided.\nb) Duplicate submission of a claim for the same service.\nc) Misrepresenting the service provided.\nd) Charging for a more complex or expensive service than was actually provided."
+    },
+    {
+        "title": "Water Quality and Potability",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 257 kB",
+        "url": "https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability",
+        "data_description": "Don't forget to upvote when you find this useful\nThis dataset contains water quality measurements and assessments related to potability, which is the suitability of water for human consumption. The dataset's primary objective is to provide insights into water quality parameters and assist in determining whether the water is potable or not. Each row in the dataset represents a water sample with specific attributes, and the \"Potability\" column indicates whether the water is suitable for consumption.\nColumns:\npH: The pH level of the water.\nHardness: Water hardness, a measure of mineral content.\nSolids: Total dissolved solids in the water.\nChloramines: Chloramines concentration in the water.\nSulfate: Sulfate concentration in the water.\nConductivity: Electrical conductivity of the water.\nOrganic_carbon: Organic carbon content in the water.\nTrihalomethanes: Trihalomethanes concentration in the water.\nTurbidity: Turbidity level, a measure of water clarity.\nPotability: Target variable; indicates water potability with values 1 (potable) and 0 (not potable)."
+    },
+    {
+        "title": "2022 Russia Ukraine War",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 35 kB",
+        "url": "https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war",
+        "data_description": "(opens in a new tab)\">\nWAR, day 1019\nData will be updated weekly\n\nEach new record is accumulated data from previous days\nThis dataset describes Equipment Losses & Death Toll & Military Wounded & Prisoner of War of russians in 2022 Ukraine russia War.\nAll data are official and additionally structured by myself.\nA lot of civilians and children have already been killed by russia troops. Ukraine is in war flame and under missile attack now. We are strong. Stand with Ukraine."
+    },
+    {
+        "title": "🫀 Heart Disease Dataset",
+        "file_type": "Usability 10.0 · 2 Files (other, CSV) · 408 kB",
+        "url": "https://www.kaggle.com/datasets/mexwell/heart-disease-dataset",
+        "data_description": "This heart disease dataset is curated by combining 5 popular heart disease datasets already available independently but not combined before. In this dataset, 5 heart datasets are combined over 11 common features which makes it the largest heart disease dataset available so far for research purposes. The five datasets used for its curation are:\nCleveland\nHungarian\nSwitzerland\nLong Beach VA\nStatlog (Heart) Data Set.\nThis dataset consists of 1190 instances with 11 features. These datasets were collected and combined at one place to help advance research on CAD-related machine learning and data mining algorithms, and hopefully to ultimately advance clinical diagnosis and early treatment.\nAcknowlegement\nFoto von Kenny Eliason auf Unsplash"
+    },
+    {
+        "title": "Smoking and Drinking Dataset with body signal",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 29 MB",
+        "url": "https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset",
+        "data_description": "This dataset is collected from National Health Insurance Service in Korea. All personal information and sensitive data were excluded.\nThe purpose of this dataset is to:\nAnalysis of body signal\nClassification of smoker or drinker\nDetails of dataset:\nColunm Description(US) KR\nSex male, female 성별\nage round up to 5 years 나이\nheight round up to 5 cm[cm] 키\nweight [kg] 몸무게"
+    },
+    {
+        "title": "Cost of Living Index by Country",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 3 kB",
+        "url": "https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024",
+        "data_description": "Cost of Living Index by Country, 2024 Mid Year data\nData scraped from Numbeo: www.numbeo.com/cost-of-living/rankings_by_country.jsp\nAll credits to Numbeo: www.numbeo.com/cost-of-living/\nAn index of 100 reflects the same living cost as in New York City, United States.\nAs of 2024 Mid Year data, in NYC,\nA family of four estimated monthly costs are $6,074.40 without rent.\nA single person's estimated monthly costs are $1,640.90 without rent."
+    },
+    {
+        "title": "Credit Card Fraud Detection",
+        "file_type": "Usability 8.8 · 3 Files (CSV) · 118 MB",
+        "url": "https://www.kaggle.com/datasets/mishra5001/credit-card",
+        "data_description": "Motive!\nThis data set is uploaded in order to get the insights of Credit card Defaultees based on the respective attributes!\nInside?\nWe have attributes such as Income_Total,AMT_APPLICATION,AMT_CREDIT and around 122 Columns in Application Data Set. The interesting thing is if you intend to see the patterns and variations, we can use the PREVIOUS APPLICATION data set also, in order to get more insights.!\nInspiration\nWe took this data set as our assignment and tried to perform the EDA to the best of our capability!"
+    },
+    {
+        "title": "🍌 | Banana Quality",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 277 kB",
+        "url": "https://www.kaggle.com/datasets/l3llff/banana",
+        "data_description": "Content\nTabular dataset contains numerical information about bananas of different quality (size, weight, sweetness, softness, harvest time, ripeness, acidity, quality).\nColumns\nSize - size of fruit\nWeight - weight of fruit\nSweetness - sweetness of fruit\nSoftness - softness of fruit\nHarvestTime - amount of time passed from harvesting of the fruit\nRipeness - ripness of fruit\nAcidity - acidity of fruit\nQuality - quality of fruit"
+    },
+    {
+        "title": "Salary by Job Title and Country",
+        "file_type": "Usability 10.0 · 2 Files (CSV) · 89 kB",
+        "url": "https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country",
+        "data_description": "This dataset provides a comprehensive collection of salary information from various industries and regions across the globe. Sourced from reputable employment websites and surveys, it includes details on job titles, salaries, job sectors, geographic locations, and more. Analyze this data to gain insights into job market trends, compare compensation across different professions, and make informed decisions about your career or hiring strategies. The dataset is cleaned and preprocessed for ease of analysis and is available under an open license for research and data analysis purposes.\nEducation Level:\n0 : High School\n1 : Bachelor Degree\n2 : Master Degree\n3 : Phd\nCurrency : US Dollar\nSenior : It shows that is this employee has a senior position or no.(Binary)"
+    },
+    {
+        "title": "Loan Defaulter",
+        "file_type": "Usability 9.1 · 3 Files (CSV) · 118 MB",
+        "url": "https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter",
+        "data_description": "This case study aims to give us an idea of applying EDA in a real business scenario. In this case study, apart from applying the techniques that we have learnt in the EDA module, we will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers."
+    },
+    {
+        "title": "Dairy Goods Sales Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 233 kB",
+        "url": "https://www.kaggle.com/datasets/suraj520/dairy-goods-sales-dataset",
+        "data_description": "The Dairy Goods Sales Dataset provides a detailed and comprehensive collection of data related to dairy farms, dairy products, sales, and inventory management. This dataset encompasses a wide range of information, including farm location, land area, cow population, farm size, production dates, product details, brand information, quantities, pricing, shelf life, storage conditions, expiration dates, sales information, customer locations, sales channels, stock quantities, stock thresholds, and reorder quantities.\nFeatures:\nLocation: The geographical location of the dairy farm.\nTotal Land Area (acres): The total land area occupied by the dairy farm.\nNumber of Cows: The number of cows present in the dairy farm.\nFarm Size: The size of the dairy farm(in sq.km).\nDate: The date of data recording.\nProduct ID: The unique identifier for each dairy product.\nProduct Name: The name of the dairy product.\nBrand: The brand associated with the dairy product.\nQuantity (liters/kg): The quantity of the dairy product available."
+    },
+    {
+        "title": "Olympic Data 🥇 ⛳🥅🏋️‍♀️🚴‍♂️",
+        "file_type": "Usability 10.0 · 2 Files (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data",
+        "data_description": "The Olympic Games are an international multi-sport event held every four years in which thousands of athletes from around the world participate in various sports competitions. The Olympics are one of the most significant and prestigious sporting events globally, promoting unity, friendship, and fair play among nations.\nKey facts about the Olympic Games:\nHistory: The modern Olympic Games were inspired by the ancient Olympic Games held in Olympia, Greece, from the 8th century BCE to the 4th century CE. The modern Olympics were revived in 1896 by Pierre de Coubertin, a French educator and historian.\nSummer and Winter Games: The Olympics are divided into the Summer Olympic Games and the Winter Olympic Games. The Summer Games typically include sports such as athletics, swimming, gymnastics, and team sports, while the Winter Games feature events like skiing, ice hockey, snowboarding, and figure skating.\nHost Cities: Each Olympic Games is hosted by a selected city from around the world. The host city is chosen through a competitive bidding process organized by the International Olympic Committee (IOC)."
+    },
+    {
+        "title": "Agri-food CO2 emission dataset - Forecasting ML",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 723 kB",
+        "url": "https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml",
+        "data_description": "The agricultural CO2 emission dataset has been constructed by merging and reprocessing approximately a dozen individual datasets from the Food and Agriculture Organization (FAO) and data from IPCC. These datasets were, cleaned, preprocessed and merged together to create a comprehensive and cohesive dataset for analysis and forecasting purposes.\nThe dataset, as demonstrated in the notebook, describes CO2 emissions related to agri-food, which amount to approximately 62% of the global annual emissions.\nIndeed, the emissions from the agri-food sector are significant when studying climate change. As the dataset shows, these emissions contribute to a substantial portion of the global annual emissions. Understanding and addressing the environmental impact of the agri-food industry is crucial for mitigating climate change and developing sustainable practices within this sector.\nFor a better understanding of the dataset, I have written a notebook where I perform an analysis of the relationship between emissions, climate change and geografic Area. Additionally, I provide an example of regression to predict the percentage variations in temperatures.\nDataset Features:\nSavanna fires: Emissions from fires in savanna ecosystems.\nForest fires: Emissions from fires in forested areas."
+    },
+    {
+        "title": "Top Spotify Songs",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 48 kB",
+        "url": "https://www.kaggle.com/datasets/arnavvvvv/spotify-music",
+        "data_description": "Context\nDataset contains a comprehensive list of the most famous songs and most streamed songs as listed on Spotify.\nIt provides insights into each song's\nAttributes\nPopularity\nPresence on various music platforms\nThe dataset includes information such as track name\nArtist's name\nRelease date\nSpotify playlists and charts\nStreaming statistics\nApple Music presence\nDeezer presence"
+    },
+    {
+        "title": "Pizza Place Sales",
+        "file_type": "Usability 10.0 · 4 Files (CSV) · 427 kB",
+        "url": "https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales",
+        "data_description": "A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.\n| Table| Field |Description\n| orders| order_id |Unique identifier for each order placed by a table\n| | |\n| orders | date |Date the order was placed (entered into the system prior to cooking & serving)\n| orders | time |Time the order was placed (entered into the system prior to cooking & serving)\n| order_details| order_details_id |Unique identifier for each pizza placed within each order (pizzas of the same type and size are kept in the same row, and the quantity increases)\n| order_details| order_id |Foreign key that ties the details in each order to the order itself\n| order_details| pizza_id |Foreign key that ties the pizza ordered to its details, like size and price\n| order_details|quantity |Quantity ordered for each pizza of the same type and size\n| pizzas| pizza_id |Unique identifier for each pizza (constituted by its type and size)\n| pizzas| pizza_type_id |Foreign key that ties each pizza to its broader pizza type\n| pizzas| size |Size of the pizza (Small, Medium, Large, X Large, or XX Large)\n| pizzas| price |Price of the pizza in USD\n| pizza_types| pizza_type_id |Unique identifier for each pizza type\n| pizza_types|name |Name of the pizza as shown in the menu\n| pizza_types| category |Category that the pizza fall under in the menu (Classic, Chicken, Supreme, or Veggie)\n| pizza_types|ingredients |Comma-delimited ingredients used in the pizza as shown in the menu (they all include Mozzarella Cheese, even if not specified; and they all include Tomato Sauce, unless another sauce is specified)"
+    },
+    {
+        "title": "Latest Data Science Salaries",
+        "file_type": "Usability 10.0 · 7 Files (CSV) · 285 kB",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/data-science-salaries-2023",
+        "data_description": "Context\nThe \"Latest Data Science Salaries\" dataset provides valuable insights into the compensation trends and variations in the field of data science from 2020 to 2024. This dataset encompasses a comprehensive collection of salary information from various industries, organizations, and geographic regions, enabling data professionals, researchers, and organizations to analyze and understand the prevailing salary landscape in the data science domain during this four-year period. By examining this dataset, one can gain a deeper understanding of the factors influencing data science salaries, such as job roles, experience levels, educational backgrounds, and geographical locations. The dataset serves as a valuable resource for individuals seeking career guidance, companies aiming to benchmark their compensation strategies, and researchers investigating the evolving dynamics of the data science job market.\nContent\nThe dataset includes information about Job Title, Employment Type, Experience Level, Expertise Level, Salary, Salary Currency, Company Location, Salary in USD, Employee Residence, Company Size, and Year. This information provides a comprehensive view of job-related details, compensation levels, company characteristics, and temporal aspects, offering valuable insights for analyzing and understanding the dataset.\nStructure of the Dataset"
+    },
+    {
+        "title": "MusicCaps",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 812 kB",
+        "url": "https://www.kaggle.com/datasets/googleai/musiccaps",
+        "data_description": "The MusicCaps dataset contains 5,521 music examples, each of which is labeled with an English aspect list and a free text caption written by musicians.\nAn aspect list is for example \"pop, tinny wide hi hats, mellow piano melody, high pitched female vocal melody, sustained pulsating synth lead\".\nThe caption consists of multiple sentences about the music, e.g., \"A low sounding male voice is rapping over a fast paced drums playing a reggaeton beat along with a bass. Something like a guitar is playing the melody along. This recording is of poor audio-quality. In the background a laughter can be noticed. This song may be playing in a bar.\"\nThe text is solely focused on describing how the music sounds, not the metadata like the artist name.\nThe labeled examples are 10s music clips from the AudioSet dataset (2,858 from the eval and 2,663 from the train split).\nPlease cite the corresponding paper, when using this dataset: http://arxiv.org/abs/2301.11325 (DOI: 10.48550/arXiv.2301.11325)"
+    },
+    {
+        "title": "Fatalities in the Israeli-Palestinian",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 474 kB",
+        "url": "https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian",
+        "data_description": "Some Task Ideas:\nAnalyze Fatality Trends: Explore the dataset and track the trends in fatalities over time. Identify any significant changes, spikes, or declines in the number of fatalities.\nDemographic Analysis:Conduct a demographic analysis by examining the age, gender, and citizenship of the individuals killed. Determine if there are any notable patterns or disparities in the data.\nGeospatial Analysis: Utilize the event location, district, and region information to perform geospatial analysis. Visualize the distribution of fatalities on a map and identify areas that have experienced higher levels of violence.\nHostilities Participation Analysis:Investigate the extent of individuals' participation in hostilities before their deaths. Analyze the relationship between participation and the circumstances surrounding each fatality.\nInjury Analysis: Examine the types of injuries inflicted on individuals. Identify the most common types of injuries and assess their severity.\nWeapons Used: Analyze the ammunition and means by which the individuals were killed. Determine the most frequently used weapons or methods and evaluate their impact.\nVictim Profiles: Create profiles of the victims based on the available data such as age, gender, citizenship, and place of residence. Identify common characteristics among the victims."
+    },
+    {
+        "title": "2023 Data Scientists Salary",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 26 kB",
+        "url": "https://www.kaggle.com/datasets/henryshan/2023-data-scientists-salary",
+        "data_description": "Summary\nThe aim of this study is to investigate the factors influencing the salaries of Data Scientists. To achieve this, a dataset containing various relevant variables was utilized. This report describes the exploratory analysis conducted to understand the relationship between these factors and Data Scientists' salaries.\nIntroduction\nData science is a rapidly growing field, and Data Scientists play a crucial role in analyzing and interpreting large volumes of data. As this profession becomes increasingly in demand, it is important to understand the factors that may influence Data Scientists' salaries. This analysis focuses on investigating these factors and their impact on salaries.\nDataset\nTo conduct this analysis, a dataset containing relevant information about Data Scientists was used. The dataset includes the following variables:\nwork_year:The year the salary was paid.\nexperience_level: The experience level in the job during the year."
+    },
+    {
+        "title": " World Population by Country ",
+        "file_type": "Usability 10.0 · 2 Files (JSON, CSV) · 39 kB",
+        "url": "https://www.kaggle.com/datasets/rajkumarpandey02/2023-world-population-by-country",
+        "data_description": "CONTENT\nThe US Census Bureau's world population clock estimated that the global population as of September 2022 was 7,922,312,800 people and was expected to reach 8 billion by mid-November of 2022. This total far exceeds the 2015 world population of 7.2 billion. The world's population continues to increase by roughly 140 people per minute, with births outweighing deaths in most countries.\nOverall, however, the rate of population growth has been slowing for several decades. This slowdown is expected to continue until the rate of population growth reaches zero (an equal number of births and deaths) around 2080-2100, at a population of approximately 10.4 billion people. After this time, the population growth rate is expected to turn negative, resulting in global population decline.\nCountries with more than 1 billion people\nChina is currently the most populous country in the world, with a population estimated at more than 1.42 billion as of September 2022. Only one other country in the world boasts a population of more than 1 billion people: India, whose population is estimated to be 1.41 billion people—and rising."
+    },
+    {
+        "title": "Tesla Stock Data 2010 - 2024",
+        "file_type": "Usability 10.0 · 2 Files (CSV) · 127 kB",
+        "url": "https://www.kaggle.com/datasets/iamtanmayshukla/tesla-stocks-dataset",
+        "data_description": "Dataset - 2010-2024\nDate: The date of the record (YYYY-MM-DD)\nOpen: Opening price of the stock.\nHigh: Highest price of the stock for the day.\nLow: Lowest price of the stock for the day.\nClose: Closing price of the stock.\nAdj Close: Adjusted closing price.\nVolume: Number of shares traded."
+    }
+]

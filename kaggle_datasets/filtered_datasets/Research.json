@@ -1,0 +1,527 @@
+[
+    {
+        "title": "Chess Game Dataset (Lichess)",
+        "file_type": "Usability 8.2 · 1 File (CSV) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/datasnaek/chess"
+    },
+    {
+        "title": "Netflix Movies and TV Shows",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/shivamb/netflix-shows"
+    },
+    {
+        "title": "IMDB Dataset of 50K Movie Reviews",
+        "file_type": "Usability 8.2 · 1 File (CSV) · 27 MB",
+        "url": "https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews"
+    },
+    {
+        "title": "Heart Failure Prediction Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 9 kB",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction"
+    },
+    {
+        "title": "Life Expectancy (WHO)",
+        "file_type": "Usability 8.2 · 1 File (CSV) · 121 kB",
+        "url": "https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who"
+    },
+    {
+        "title": "Bike Sales  in  Europe",
+        "file_type": "Usability 7.1 · 1 File (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe"
+    },
+    {
+        "title": "Vehicle Sales Data",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 20 MB",
+        "url": "https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data"
+    },
+    {
+        "title": "Employee dataset",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 19 kB",
+        "url": "https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset"
+    },
+    {
+        "title": "WEATHER PREDICTION",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 12 kB",
+        "url": "https://www.kaggle.com/datasets/ananthr1/weather-prediction"
+    },
+    {
+        "title": "📚 Students Performance Dataset 📚",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 68 kB",
+        "url": "https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset"
+    },
+    {
+        "title": "Social Media Sentiments Analysis Dataset 📊",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 52 kB",
+        "url": "https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset"
+    },
+    {
+        "title": "BraTS2020 Dataset (Training + Validation)",
+        "file_type": "Usability 7.6 · 4 GB",
+        "url": "https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation"
+    },
+    {
+        "title": "NIFTY-50 Stock Market Data (2000 - 2021)",
+        "file_type": "Usability 10.0 · 52 Files (CSV) · 19 MB",
+        "url": "https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data"
+    },
+    {
+        "title": "House Sales in King County, USA",
+        "file_type": "Usability 7.1 · 1 File (CSV) · 798 kB",
+        "url": "https://www.kaggle.com/datasets/harlfoxem/housesalesprediction"
+    },
+    {
+        "title": "Student Performance Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 7 kB",
+        "url": "https://www.kaggle.com/datasets/devansodariya/student-performance-data"
+    },
+    {
+        "title": "Netflix Userbase Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 26 kB",
+        "url": "https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset"
+    },
+    {
+        "title": "Data Science Job Salaries",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 8 kB",
+        "url": "https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries"
+    },
+    {
+        "title": "NASA Battery Dataset ",
+        "file_type": "Usability 9.4 · 7575 Files (CSV, other) · 239 MB",
+        "url": "https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset"
+    },
+    {
+        "title": "Email Spam Classification Dataset CSV",
+        "file_type": "Usability 9.1 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv"
+    },
+    {
+        "title": "Crop Yield Prediction Dataset",
+        "file_type": "Usability 9.7 · 5 Files (CSV) · 982 kB",
+        "url": "https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset"
+    },
+    {
+        "title": "LinkedIn Job Postings (2023 - 2024)",
+        "file_type": "Usability 10.0 · 11 Files (CSV) · 166 MB",
+        "url": "https://www.kaggle.com/datasets/arshkon/linkedin-job-postings"
+    },
+    {
+        "title": "Customer Shopping Dataset - Retail Sales Data",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset"
+    },
+    {
+        "title": "Lung Cancer",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 2 kB",
+        "url": "https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer"
+    },
+    {
+        "title": "Company Bankruptcy Prediction",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 5 MB",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction"
+    },
+    {
+        "title": "Data Science Salaries 2023 💸",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 26 kB",
+        "url": "https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023"
+    },
+    {
+        "title": "Twitter US Airline Sentiment",
+        "file_type": "Usability 8.2 · 2 Files (SQLITE, CSV) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment"
+    },
+    {
+        "title": "Housing Price Prediction",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 5 kB",
+        "url": "https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction"
+    },
+    {
+        "title": "World Happiness Report 2021",
+        "file_type": "Usability 9.7 · 2 Files (CSV) · 57 kB",
+        "url": "https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021"
+    },
+    {
+        "title": "Car Sales Report",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 673 kB",
+        "url": "https://www.kaggle.com/datasets/missionjee/car-sales-report"
+    },
+    {
+        "title": "USA Real Estate Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 40 MB",
+        "url": "https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset"
+    },
+    {
+        "title": "Ocular Disease Recognition",
+        "file_type": "Usability 8.2 · 14394 Files (other, CSV) · 2 GB",
+        "url": "https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k"
+    },
+    {
+        "title": "Women's E-Commerce Clothing Reviews",
+        "file_type": "Usability 8.8 · 1 File (CSV) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews"
+    },
+    {
+        "title": "Car information dataset",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 7 kB",
+        "url": "https://www.kaggle.com/datasets/tawfikelmetwally/automobile-dataset"
+    },
+    {
+        "title": "Wind Turbine Scada Dataset",
+        "file_type": "Usability 5.9 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset"
+    },
+    {
+        "title": "Global YouTube Statistics 2023",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 62 kB",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023"
+    },
+    {
+        "title": "Brain Tumor Segmentation(BraTS2020)",
+        "file_type": "Usability 7.1 · 57199 Files (other, CSV) · 7 GB",
+        "url": "https://www.kaggle.com/datasets/awsaf49/brats2020-training-data"
+    },
+    {
+        "title": "Supply Chain Analysis",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 9 kB",
+        "url": "https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis"
+    },
+    {
+        "title": "Food.com Recipes and Interactions",
+        "file_type": "Usability 10.0 · 8 Files (CSV, other) · 280 MB",
+        "url": "https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions"
+    },
+    {
+        "title": "Global Data on Sustainable Energy (2000-2020)",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 178 kB",
+        "url": "https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy"
+    },
+    {
+        "title": "Students Exam Scores: Extended Dataset",
+        "file_type": "Usability 10.0 · 2 Files (CSV) · 711 kB",
+        "url": "https://www.kaggle.com/datasets/desalegngeb/students-exam-scores"
+    },
+    {
+        "title": "Online Food Dataset",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 3 kB",
+        "url": "https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset"
+    },
+    {
+        "title": "Job Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 480 MB",
+        "url": "https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset"
+    },
+    {
+        "title": "Hate Speech and Offensive Language Dataset",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset"
+    },
+    {
+        "title": "Apple Quality",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 174 kB",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality"
+    },
+    {
+        "title": "Phishing Email Detection",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 19 MB",
+        "url": "https://www.kaggle.com/datasets/subhajournal/phishingemails"
+    },
+    {
+        "title": "Solar Power Generation Data",
+        "file_type": "Usability 10.0 · 4 Files (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/anikannal/solar-power-generation-data"
+    },
+    {
+        "title": "Traffic Prediction Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 284 kB",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/traffic-prediction-dataset"
+    },
+    {
+        "title": "Pharma sales data",
+        "file_type": "Usability 9.1 · 4 Files (CSV) · 361 kB",
+        "url": "https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data"
+    },
+    {
+        "title": "IBM Transactions for Anti Money Laundering (AML)",
+        "file_type": "Usability 9.4 · 11 Files (CSV, other) · 8 GB",
+        "url": "https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml"
+    },
+    {
+        "title": "Student Performance Predictions",
+        "file_type": "Usability 9.4 · 3 Files (other, CSV) · 10 kB",
+        "url": "https://www.kaggle.com/datasets/haseebindata/student-performance-predictions"
+    },
+    {
+        "title": "IDS 2018 Intrusion CSVs (CSE-CIC-IDS2018)",
+        "file_type": "Usability 9.7 · 10 Files (CSV) · 2 GB",
+        "url": "https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv"
+    },
+    {
+        "title": "Mental Health Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset"
+    },
+    {
+        "title": "Brain Tumor",
+        "file_type": "Usability 9.4 · 3764 Files (other, CSV) · 15 MB",
+        "url": "https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor"
+    },
+    {
+        "title": "Network Intrusion Detection",
+        "file_type": "Usability 4.7 · 2 Files (CSV) · 838 kB",
+        "url": "https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection"
+    },
+    {
+        "title": "Loan Default Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 5 MB",
+        "url": "https://www.kaggle.com/datasets/yasserh/loan-default-dataset"
+    },
+    {
+        "title": "Airline Dataset",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 13 MB",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset"
+    },
+    {
+        "title": "Obesity or CVD risk (Classify/Regressor/Cluster)",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 59 kB",
+        "url": "https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster"
+    },
+    {
+        "title": "New York Housing Market",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 277 kB",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market"
+    },
+    {
+        "title": "Emotion Detection from Text",
+        "file_type": "Usability 7.6 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text"
+    },
+    {
+        "title": "Edge-IIoTset Cyber Security Dataset of IoT & IIoT",
+        "file_type": "Usability 7.5 · 52 Files (CSV, other) · 2 GB",
+        "url": "https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot"
+    },
+    {
+        "title": "(MBTI) Myers-Briggs Personality Type Dataset",
+        "file_type": "Usability 8.8 · 1 File (CSV) · 26 MB",
+        "url": "https://www.kaggle.com/datasets/datasnaek/mbti-type"
+    },
+    {
+        "title": "Housing Price Prediction Data",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 781 kB",
+        "url": "https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data"
+    },
+    {
+        "title": "ECG dataset",
+        "file_type": "Usability 5.9 · 1 File (CSV) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/devavratatripathy/ecg-dataset"
+    },
+    {
+        "title": "World Energy Consumption",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption"
+    },
+    {
+        "title": "MRI and Alzheimers",
+        "file_type": "Usability 8.5 · 2 Files (CSV) · 13 kB",
+        "url": "https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers"
+    },
+    {
+        "title": "Phishing Dataset for Machine Learning",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 240 kB",
+        "url": "https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning"
+    },
+    {
+        "title": "EEG Brainwave Dataset: Feeling Emotions ",
+        "file_type": "Usability 6.5 · 1 File (CSV) · 12 MB",
+        "url": "https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions"
+    },
+    {
+        "title": "Web page Phishing Detection Dataset",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset"
+    },
+    {
+        "title": "Polycystic ovary syndrome (PCOS)",
+        "file_type": "Usability 9.1 · 2 Files (other, CSV) · 123 kB",
+        "url": "https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos"
+    },
+    {
+        "title": "Billionaires Statistics Dataset (2023)",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 143 kB",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset"
+    },
+    {
+        "title": "Heart Disease Classification Dataset",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 16 kB",
+        "url": "https://www.kaggle.com/datasets/bharath011/heart-disease-classification-dataset"
+    },
+    {
+        "title": "Telecom Churn Dataset",
+        "file_type": "Usability 10.0 · 2 Files (CSV) · 102 kB",
+        "url": "https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets"
+    },
+    {
+        "title": "Maternal Health Risk Data",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 4 kB",
+        "url": "https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data"
+    },
+    {
+        "title": "Diabetes, Hypertension and Stroke Prediction",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/prosperchuks/health-dataset"
+    },
+    {
+        "title": " HEALTHCARE PROVIDER FRAUD DETECTION ANALYSIS",
+        "file_type": "Usability 6.5 · 8 Files (CSV) · 27 MB",
+        "url": "https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis"
+    },
+    {
+        "title": "Water quality",
+        "file_type": "Usability 9.1 · 1 File (CSV) · 264 kB",
+        "url": "https://www.kaggle.com/datasets/mssmartypants/water-quality"
+    },
+    {
+        "title": "Fast Food Nutrition",
+        "file_type": "Usability 10.0 · 2 Files (CSV) · 41 kB",
+        "url": "https://www.kaggle.com/datasets/joebeachcapital/fast-food"
+    },
+    {
+        "title": "Cyberbullying Dataset",
+        "file_type": "Usability 8.2 · 68 MB",
+        "url": "https://www.kaggle.com/datasets/saurabhshahane/cyberbullying-dataset"
+    },
+    {
+        "title": "Smoking and Drinking Dataset with body signal",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 29 MB",
+        "url": "https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset"
+    },
+    {
+        "title": "UNB CIC IOT 2023 Dataset",
+        "file_type": "Usability 8.8 · 184 Files (CSV, other) · 3 GB",
+        "url": "https://www.kaggle.com/datasets/madhavmalhotra/unb-cic-iot-dataset"
+    },
+    {
+        "title": "Student Study Performance",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 9 kB",
+        "url": "https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance"
+    },
+    {
+        "title": "MIMIC-III - Deep Reinforcement Learning ",
+        "file_type": "Usability 8.2 · 28 Files (CSV, other) · 11 MB",
+        "url": "https://www.kaggle.com/datasets/asjad99/mimiciii"
+    },
+    {
+        "title": "Mental Health Dataset",
+        "file_type": "Usability 10.0 · 6 Files (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset"
+    },
+    {
+        "title": "Skin Lesion Images for Melanoma Classification",
+        "file_type": "Usability 9.4 · 25335 Files (other, CSV) · 10 GB",
+        "url": "https://www.kaggle.com/datasets/andrewmvd/isic-2019"
+    },
+    {
+        "title": "Autism Screening on Adults",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 8 kB",
+        "url": "https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults"
+    },
+    {
+        "title": "Employee Productivity and Satisfaction HR Data",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 5 kB",
+        "url": "https://www.kaggle.com/datasets/adityaab1407/employee-productivity-and-satisfaction-hr-data"
+    },
+    {
+        "title": "Complete EEG dataset",
+        "file_type": "Usability 4.7 · 36 Files (CSV) · 67 MB",
+        "url": "https://www.kaggle.com/datasets/amananandrai/complete-eeg-dataset"
+    },
+    {
+        "title": "Parkinson Disease Detection",
+        "file_type": "Usability 7.1 · 1 File (CSV) · 15 kB",
+        "url": "https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection"
+    },
+    {
+        "title": "Global Food Price Inflation",
+        "file_type": "Usability 10.0 · 4 Files (CSV, other) · 260 kB",
+        "url": "https://www.kaggle.com/datasets/anshtanwar/monthly-food-price-estimates"
+    },
+    {
+        "title": "🤖 Students' Perceptions of AI in Education",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 3 kB",
+        "url": "https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education"
+    },
+    {
+        "title": "Obesity prediction",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 33 kB",
+        "url": "https://www.kaggle.com/datasets/mrsimple07/obesity-prediction"
+    },
+    {
+        "title": "Asthma Disease Prediction",
+        "file_type": "Usability 7.1 · 1 File (CSV) · 306 kB",
+        "url": "https://www.kaggle.com/datasets/deepayanthakur/asthma-disease-prediction"
+    },
+    {
+        "title": "Power consumption in India(2019-2020)",
+        "file_type": "Usability 10.0 · 2 Files (CSV) · 126 kB",
+        "url": "https://www.kaggle.com/datasets/twinkle0705/state-wise-power-consumption-in-india"
+    },
+    {
+        "title": "Top Spotify Songs",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 48 kB",
+        "url": "https://www.kaggle.com/datasets/arnavvvvv/spotify-music"
+    },
+    {
+        "title": "EEG Dataset",
+        "file_type": "Usability 5.3 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/samnikolas/eeg-dataset"
+    },
+    {
+        "title": "Alzheimer Features",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 4 kB",
+        "url": "https://www.kaggle.com/datasets/brsdincer/alzheimer-features"
+    },
+    {
+        "title": "Automotive Vehicles Engine Health Dataset",
+        "file_type": "Usability 8.8 · 1 File (CSV) · 609 kB",
+        "url": "https://www.kaggle.com/datasets/parvmodi/automotive-vehicles-engine-health-dataset"
+    },
+    {
+        "title": "Electricity Load Forecasting",
+        "file_type": "Usability 8.2 · 4 Files (other, CSV) · 48 MB",
+        "url": "https://www.kaggle.com/datasets/saurabhshahane/electricity-load-forecasting"
+    },
+    {
+        "title": "MusicCaps",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 812 kB",
+        "url": "https://www.kaggle.com/datasets/googleai/musiccaps"
+    },
+    {
+        "title": "Fatalities in the Israeli-Palestinian",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 474 kB",
+        "url": "https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian"
+    },
+    {
+        "title": "Online Gaming Anxiety Data ",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 663 kB",
+        "url": "https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data"
+    },
+    {
+        "title": "🏦💳👨‍🦳👩‍ Credit scoring for borrowers in bank",
+        "file_type": "Usability 10.0 · 2 Files (CSV, other) · 187 kB",
+        "url": "https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring"
+    },
+    {
+        "title": "Cloud Computing Performance Metrics",
+        "file_type": "Usability 6.5 · 1 File (CSV) · 173 MB",
+        "url": "https://www.kaggle.com/datasets/abdurraziq01/cloud-computing-performance-metrics"
+    },
+    {
+        "title": "Android Malware Dataset for Machine Learning ",
+        "file_type": "Usability 9.4 · 2 Files (CSV) · 427 kB",
+        "url": "https://www.kaggle.com/datasets/shashwatwork/android-malware-dataset-for-machine-learning"
+    },
+    {
+        "title": "ransomware detection data set",
+        "file_type": "Usability 5.9 · 2 MB",
+        "url": "https://www.kaggle.com/datasets/amdj3dax/ransomware-detection-data-set"
+    }
+]

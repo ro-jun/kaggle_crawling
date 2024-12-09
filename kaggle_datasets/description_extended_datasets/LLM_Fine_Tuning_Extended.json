@@ -1,0 +1,278 @@
+[
+    {
+        "title": "Students Performance | Clean Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 10 kB",
+        "url": "https://www.kaggle.com/datasets/muhammadroshaanriaz/students-performance-dataset-cleaned",
+        "data_description": "The dataset includes:"
+    },
+    {
+        "title": "Stock Market Dataset",
+        "file_type": "Usability 8.2 · 8050 Files (CSV) · 548 MB",
+        "url": "https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset",
+        "data_description": "Overview\nThis dataset contains historical daily prices for all tickers currently trading on NASDAQ. The up to date list is available from nasdaqtrader.com. The historic data is retrieved from Yahoo finance via yfinance python package.\nIt contains prices for up to 01 of April 2020. If you need more up to date data, just fork and re-run data collection script also available from Kaggle.\nData Structure\nThe date for every symbol is saved in CSV format with common fields:\nDate - specifies trading date\nOpen - opening price\nHigh - maximum price during the day\nLow - minimum price during the day\nClose - close price adjusted for splits\nAdj Close - adjusted close price adjusted for both dividends and splits.\nVolume - the number of shares that changed hands during a given day"
+    },
+    {
+        "title": "Flickr Image dataset",
+        "file_type": "Usability 7.1 · 31784 Files (other, CSV) · 9 GB",
+        "url": "https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset",
+        "data_description": "The Flickr30k dataset has become a standard benchmark for sentence-based image description. This paper presents Flickr30k Entities, which augments the 158k captions from Flickr30k with 244k coreference chains, linking mentions of the same entities across different captions for the same image, and associating them with 276k manually annotated bounding boxes. Such annotations are essential for continued progress in automatic image description and grounded language understanding. They enable us to define a new benchmark for localization of textual entity mentions in an image. We present a strong baseline for this task that combines an image-text embedding, detectors for common objects, a color classifier, and a bias towards selecting larger objects. While our baseline rivals in accuracy more complex state-of-the-art models, we show that its gains cannot be easily parlayed into improvements on such tasks as image-sentence retrieval, thus underlining the limitations of current methods and the need for further research."
+    },
+    {
+        "title": "Sentiment Analysis for Mental Health",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 12 MB",
+        "url": "https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health",
+        "data_description": "This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. The dataset amalgamates raw data from multiple sources, cleaned and compiled to create a robust resource for developing chatbots and performing sentiment analysis.\nData Source:\nThe dataset integrates information from the following Kaggle datasets:\n3k Conversations Dataset for Chatbot\nDepression Reddit Cleaned\nHuman Stress Prediction\nPredicting Anxiety in Mental Health Data\nMental Health Dataset Bipolar\nReddit Mental Health Data\nStudents Anxiety and Depression Dataset\nSuicidal Mental Health Dataset\nSuicidal Tweet Detection Dataset"
+    },
+    {
+        "title": "Resume Dataset",
+        "file_type": "Usability 10.0 · 2485 Files (other, CSV) · 66 MB",
+        "url": "https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset",
+        "data_description": "Context\nA collection of Resume Examples taken from livecareer.com for categorizing a given resume into any of the labels defined in the dataset.\nContent\nContains 2400+ Resumes in string as well as PDF format.\nPDF stored in the data folder differentiated into their respective labels as folders with each resume residing inside the folder in pdf form with filename as the id defined in the csv.\nInside the CSV:\nID: Unique identifier and file name for the respective pdf.\nResume_str : Contains the resume text only in string format.\nResume_html : Contains the resume data in html format as present while web scrapping.\nCategory : Category of the job the resume was used to apply.\nPresent categories are\nHR, Designer, Information-Technology, Teacher, Advocate, Business-Development, Healthcare, Fitness, Agriculture, BPO, Sales, Consultant, Digital-Media, Automobile, Chef, Finance, Apparel, Engineering, Accountant, Construction, Public-Relations, Banking, Arts, Aviation"
+    },
+    {
+        "title": "Resume Dataset",
+        "file_type": "Usability 7.1 · 1 File (CSV) · 392 kB",
+        "url": "https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset",
+        "data_description": "Companies often receive thousands of resumes for each job posting and employ dedicated screening officers to screen qualified candidates.\nHiring the right talent is a challenge for all businesses. This challenge is magnified by the high volume of applicants if the business is labour-intensive, growing, and facing high attrition rates.\nIT departments are short of growing markets. In a typical service organization, professionals with a variety of technical skills and business domain expertise are hired and assigned to projects to resolve customer issues. This task of selecting the best talent among many others is known as Resume Screening.\nTypically, large companies do not have enough time to open each CV, so they use machine learning algorithms for the Resume Screening task."
+    },
+    {
+        "title": "  CNN-DailyMail News Text Summarization",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 528 MB",
+        "url": "https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail",
+        "data_description": "dataset-card-for-cnn-dailymail-dataset\ndataset-summary\nThe CNN / DailyMail Dataset is an English-language dataset containing just over 300k unique news articles as written by journalists at CNN and the Daily Mail. The current version supports both extractive and abstractive summarization, though the original version was created for machine reading and comprehension and abstractive question answering.\nsupported-tasks-and-leaderboards\n'summarization': Versions 2.0.0 and 3.0.0 of the CNN / DailyMail Dataset can be used to train a model for abstractive and extractive summarization (Version 1.0.0 was developed for machine reading and comprehension and abstractive question answering). The model performance is measured by how high the output summary's ROUGE score for a given article is when compared to the highlight as written by the original article author. Zhong et al (2020) report a ROUGE-1 score of 44.41 when testing a model trained for extractive summarization. See the Papers With Code leaderboard for more models.\nlanguages\nThe BCP-47 code for English as generally spoken in the United States is en-US and the BCP-47 code for English as generally spoken in the United Kingdom is en-GB. It is unknown if other varieties of English are represented in the data."
+    },
+    {
+        "title": "Disease Symptom  Prediction",
+        "file_type": "Usability 9.1 · 4 Files (CSV) · 31 kB",
+        "url": "https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset",
+        "data_description": "Context\nA dataset to provide the students a source to create a healthcare related system.\nA project on the same using double Decision Tree Classifiication is available at : https://github.com/itachi9604/healthcare-chatbot\nGet_dummies processed file will be available at https://www.kaggle.com/rabisingh/symptom-checker?select=Training.csv\nContent\nThere are columns containing diseases, their symptoms , precautions to be taken, and their weights.\nThis dataset can be easily cleaned by using file handling in any language. The user only needs to understand how rows and coloumns are arranged.\nThe data in this CSV sheet is for reference and training purposes only, and actual data may vary.\nAcknowledgements\nI have created this dataset with help of a friend Pratik Rathod. As there was an existing dataset like this which was difficult to clean."
+    },
+    {
+        "title": "Amazon Product Reviews ",
+        "file_type": "Usability 6.5 · 1 File (CSV) · 115 MB",
+        "url": "https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews",
+        "data_description": "Online E-commerce websites like Amazon, Filpkart uses different recommendation models to provide different suggestions to different users. Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real time. This type of filtering matches each of the user's purchased and rated items to similar items, then combines those similar items into a recommendation list for the user. In this project we are going to build recommendation model for the electronics products of Amazon.\nThe dataset here is taken from the below website.\nSource - Amazon Reviews data (http://jmcauley.ucsd.edu/data/amazon/) The repository has several datasets. For this case study, we are using the Electronics dataset.\nAttribute Information:\n● userId : Every user identified with a unique id (First Column)\n● productId : Every product identified with a unique id(Second Column)\n● Rating : Rating of the corresponding product by the corresponding user(Third Column)\n● timestamp : Time of the rating ( Fourth Column)"
+    },
+    {
+        "title": "Depression Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 9 MB",
+        "url": "https://www.kaggle.com/datasets/anthonytherrien/depression-dataset",
+        "data_description": "Dataset Overview (Synthetic)\nThis dataset contains information on individuals with various attributes related to their personal and lifestyle factors. It is designed to facilitate analysis in areas such as health, lifestyle, and socio-economic status.\nFeatures\nName: The full name of the individual.\nAge: The age of the individual in years.\nMarital Status: The marital status of the individual. Possible values include Single, Married, Divorced, and Widowed.\nEducation Level: The highest level of education attained by the individual. Possible values include High School, Associate Degree, Bachelor's Degree, Master's Degree, and PhD.\nNumber of Children: The number of children the individual has.\nSmoking Status: Indicates whether the individual is a smoker or not. Possible values are Smoker,\nFormer and Non-smoker."
+    },
+    {
+        "title": "Suicide and Depression Detection",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 64 MB",
+        "url": "https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch",
+        "data_description": "Context\nWhen I thought of building a text classifier to detect Suicide Ideation I couldn't find any public dataset. Hope this can be useful to anyone looking for suicide detection datasets and can save their time 💜.\nContent\nThe dataset is a collection of posts from the \"SuicideWatch\" and \"depression\" subreddits of the Reddit platform. The posts are collected using Pushshift API. All posts that were made to \"SuicideWatch\" from Dec 16, 2008(creation) till Jan 2, 2021, were collected while \"depression\" posts were collected from Jan 1, 2009, to Jan 2, 2021. All posts collected from SuicideWatch are labeled as suicide, While posts collected from the depression subreddit are labeled as depression. Non-suicide posts are collected from r/teenagers.\nVersion\nThe current version has only suicide & non-suicide labels.\nVersion V13 has suicide, depression & teenagers(normal conversations) as labels.\nCollection\nA notebook is provided to show how posts from Reddit can be collected using PushShift API."
+    },
+    {
+        "title": "Phishing Email Dataset",
+        "file_type": "Usability 10.0 · 7 Files (CSV) · 81 MB",
+        "url": "https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset",
+        "data_description": "PHISHING EMAIL DATASET\nThis dataset was compiled by researchers to study phishing email tactics. It combines emails from a variety of sources to create a comprehensive resource for analysis.\nInitial Datasets:\nEnron and Ling Datasets: These datasets focus on the core content of phishing emails, containing subject lines, email body text, and labels indicating whether the email is spam (phishing) or legitimate.\nCEAS, Nazario, Nigerian Fraud, and SpamAssassin Datasets: These datasets provide broader context for the emails, including sender information, recipient information, date, and labels for spam/legitimate classification.\nFinal Dataset:\nThe final dataset combines the information from the initial datasets into a single resource for analysis. This dataset contains:"
+    },
+    {
+        "title": "Healthcare NLP: LLMs, Transformers, Datasets",
+        "file_type": "Usability 9.4 · 11090 Files (other, CSV, JSON) · 30 GB",
+        "url": "https://www.kaggle.com/datasets/jpmiller/layoutlm",
+        "data_description": "Improving healthcare is one of the most promising and meaningful applications of data science. This dataset includes data and NLP-type models, including LLMs, to accomplish a variety of tasks:\nsequence to sequence\nsummarization\nq & a\ntoken labeling\ntext classification\nother!\nThere are three categories of models here:\nLarge Language Models for healthcare\nTransformers tailored for medical applications\nLayoutLM transformers for semi-structured documents such as patient forms\nThe data files are from MedQuAD: the Medical Question Answering Dataset. It's well-suited for use with the models."
+    },
+    {
+        "title": "The Depression Dataset",
+        "file_type": "Usability 8.8 · 56 Files (CSV) · 5 MB",
+        "url": "https://www.kaggle.com/datasets/arashnic/the-depression-dataset",
+        "data_description": "Context\nDepression is a severe mental disorder with characteristic symptoms like sadness, the feeling of emptiness, anxiety and sleep disturbance, as well as general loss of initiative and interest in activities. Additionally, features like the feeling of guilt or worthlessness, reduced energy, concentration problems, suicidality and psychotic symptoms might be present. The severity of a depression is determined by the quantity of symptoms, their seriousness and duration, as well as the consequences on social and occupational function. Depressions are also common in Bipolar disorder, another severe psychiatric disorder. The main difference between uni-polar depression and bipolar disorder is the periodic occurrence of mania in the latter, a state associated with inﬂated self-esteem, impulsivity, increased activity, reduced sleep and goal-directed actions. Both diseases are genetic disorders, and might be understood as a genetic vulnerability to the environment disturbing the internal biological state and potentially trigger mood episodes. Depression is associated with disrupted biological rhythms caused by environmental disturbance like seasonal change in daylight, alteration of social rhythms due to for instance shift-work or longitude traveling; besides linked to lifestyles associated with diurnal rhythms inconsistent with the natural daylight cycle. The appearance of depressive symptoms relates furthermore to physical health issues, medical side effects, life events and social factors, besides alcohol and substance abuse, and such factors might also potentially cause symptoms of depression in all humans. The global lifetime prevalence of depression is roughly 15%, but the incidences of episodes with a severity level not meeting the requirements for a depressive diagnosis are far more prevalent. Actigraph recordings of motor activity are considered an objective method for observing depression, although this topic is far from exhaustive studied within psychiatric research."
+    },
+    {
+        "title": "Credit Card Transactions Dataset",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 153 MB",
+        "url": "https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset",
+        "data_description": "The Credit Card Transactions Dataset provides detailed records of credit card transactions, including information about transaction times, amounts, and associated personal and merchant details. This dataset has over 1.85M rows.\nHow This Dataset Can Be Used:\nFraud Detection : Use machine learning models to identify fraudulent transactions by examining patterns in transaction amounts, locations, and user profiles. Enhancing fraud detection systems becomes feasible by analyzing behavioral patterns.\nCustomer Segmentation : Segment customers based on spending patterns, location, and demographics. Tailor marketing strategies and personalized offers to these different customer segments for better engagement.\nTransaction Classification : Classify transactions into categories such as grocery or entertainment to understand spending behaviors. This helps in improving recommendation systems by identifying transaction categories and preferences.\nGeospatial Analysis : Analyze transaction data geographically to map spending patterns and detect regional trends or anomalies based on latitude and longitude.\nPredictive Modeling : Build models to forecast future spending behavior using historical transaction data. Predict potential fraudulent activities and financial trends."
+    },
+    {
+        "title": "Medical Transcriptions",
+        "file_type": "Usability 8.5 · 1 File (CSV) · 5 MB",
+        "url": "https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions",
+        "data_description": "Context\nMedical data is extremely hard to find due to HIPAA privacy regulations. This dataset offers a solution by providing medical transcription samples.\nContent\nThis dataset contains sample medical transcriptions for various medical specialties.\nAcknowledgements\nThis data was scraped from mtsamples.com\nInspiration\nCan you correctly classify the medical specialties based on the transcription text?"
+    },
+    {
+        "title": "Big Five Personality Test",
+        "file_type": "Usability 10.0 · 3 Files (CSV, other) · 167 MB",
+        "url": "https://www.kaggle.com/datasets/tunguz/big-five-personality-test",
+        "data_description": "Background Information\nFrom Wikipedia\nThe Big Five personality traits, also known as the five-factor model (FFM) and the OCEAN model, is a taxonomy, or grouping, for personality traits. When factor analysis (a statistical technique) is applied to personality survey data, some words used to describe aspects of personality are often applied to the same person. For example, someone described as conscientious is more likely to be described as \"always prepared\" rather than \"messy\". This theory is based therefore on the association between words but not on neuropsychological experiments. This theory uses descriptors of common language and therefore suggests five broad dimensions commonly used to describe the human personality and psyche.\nThe Dataset\nThis dataset contains 1,015,342 questionnaire answers collected online by Open Psychometrics."
+    },
+    {
+        "title": "Cricket data",
+        "file_type": "Usability 7.6 · 9 Files (CSV) · 384 kB",
+        "url": "https://www.kaggle.com/datasets/mahendran1/icc-cricket",
+        "data_description": "Context\nAny aspiring datascientist will look everything in view of data. Even when chilling with friends, watching cricket live and cheering for the favorite team.\nContent\nIt includes ODI, Test, t20 statistics of all the players in all the three category (batting ,bowling and fielding).\nAcknowledgements\nWe wouldn't be here without the help of cricket. Thank you for all the great cricketers for the wonderful contribution."
+    },
+    {
+        "title": "MIMIC-III - Deep Reinforcement Learning ",
+        "file_type": "Usability 8.2 · 28 Files (CSV, other) · 11 MB",
+        "url": "https://www.kaggle.com/datasets/asjad99/mimiciii",
+        "data_description": "Digitization of healthcare data along with algorithmic breakthroughts in AI will have a major impact on healthcare delivery in coming years. Its intresting to see application of AI to assist clinicians during patient treatment in a privacy preserving way. While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support patients during the care process.\nOffline Reinforcement learning (also referred to as safe or batch reinforcement learning) is a promising sub-field of RL which provides us with a mechanism for solving real world sequential decision making problems where access to simulator is not available. Here we assume that learn a policy from fixed dataset of trajectories with further interaction with the environment(agent doesn't receive reward or punishment signal from the environment). It has shown that such an approach can leverage vast amount of existing logged data (in the form of previous interactions with the environment) and can outperform supervised learning approaches or heuristic based policies for solving real world - decision making problems. Offline RL algorithms when trained on sufficiently large and diverse offline datasets can produce close to optimal policies(ability to generalize beyond training data).\nAs Part of my PhD, research, I investigated the problem of developing a Clinical Decision Support System for Sepsis Management using Offline Deep Reinforcement Learning.\nMIMIC-III ('Medical Information Mart for Intensive Care') is a large open-access anonymized single-center database which consists of comprehensive clinical data of 61,532 critical care admissions from 2001–2012 collected at a Boston teaching hospital. Dataset consists of 47 features (including demographics, vitals, and lab test results) on a cohort of sepsis patients who meet the sepsis-3 definition criteria."
+    },
+    {
+        "title": "NLP Mental Health Conversations",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/nlp-mental-health-conversations",
+        "data_description": "NLP Mental Health Conversations\nStimulating AI-Driven Mental Health Guidance\nBy Huggingface Hub [source]\nAbout this dataset\nThis dataset contains conversations between users and experienced psychologists related to mental health topics. Carefully collected and anonymized, the data can be used to further the development of Natural Language Processing (NLP) models which focus on providing mental health advice and guidance. It consists of a variety of questions which will help train NLP models to provide users with appropriate advice in response to their queries. Whether you're an AI developer interested in building the next wave of mental health applications or a therapist looking for insights into how technology is helping people connect; this dataset provides invaluable support for advancing our understanding of human relationships through Artificial Intelligence"
+    },
+    {
+        "title": "Customer Purchasing Behaviors",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 1 kB",
+        "url": "https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors",
+        "data_description": "customer_id: Unique ID of the customer.\nage: The age of the customer.\nannual_income: The customer's annual income (in USD).\npurchase_amount: The total amount of purchases made by the customer (in USD).\npurchase_frequency: Frequency of customer purchases (number of times per year).\nregion: The region where the customer lives (North, South, East, West).\nloyalty_score: Customer's loyalty score (a value between 0-100).\nThis dataset includes information on customer profiles and their purchasing behaviors. The data features columns for user ID, age, annual income, purchase amount, loyalty score (categorized into classes), region, and purchase frequency. It is intended for analyzing customer segmentation and loyalty trends, and can be used for various machine learning and data analysis tasks related to customer behavior and market research.\nExplanation: These data are imaginary data. It was created entirely for the purpose of improving users, it has nothing to do with reality."
+    },
+    {
+        "title": "RecipeNLG (cooking recipes dataset)",
+        "file_type": "Usability 8.2 · 85 Files (CSV, other, JSON) · 674 MB",
+        "url": "https://www.kaggle.com/datasets/paultimothymooney/recipenlg",
+        "data_description": "Context\nRecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation\nContent\n2,231,142 cooking recipes in RecipeNLG_dataset.csv (2.14 GB)\nAcknowledgements\nSource:\nhttps://www.aclweb.org/anthology/2020.inlg-1.4.pdf\nhttps://github.com/Glorf/recipenlg\nhttps://recipenlg.cs.put.poznan.pl/\nLicense:\nPlease refer to RecipeNLG_license.png\nBanner photo from The Creative Exchange on Unsplash"
+    },
+    {
+        "title": "Predict People Personality Types",
+        "file_type": "Usability 10.0 · 4 MB",
+        "url": "https://www.kaggle.com/datasets/stealthtechnologies/predict-people-personality-types",
+        "data_description": "Description\nThis synthetic dataset is designed to explore and predict Myers-Briggs Type Indicator (MBTI) personality types based on a combination of demographic factors, interest areas, and personality scores. It includes 100K+ samples, each representing an individual with various features that contribute to determining their MBTI type. The dataset can be used to study correlations between different personality dimensions and external factors such as age, gender, education, and interests.\nFeature Descriptions\nAge: A continuous variable representing the age of the individual.\nGender: A categorical variable indicating the gender of the individual. Possible values are 'Male' and 'Female'.\nEducation: A binary variable, A value of 1 indicates the individual has at least a graduate-level education (or higher), and 0 indicates an undergraduate, high school level or Uneducated.\nInterest: A categorical variable representing the individual's primary area of interest.\nIntroversion Score: A continuous variable ranging from 0 to 10, representing the individual's tendency toward introversion versus extraversion. Higher scores indicate a greater tendency toward extraversion."
+    },
+    {
+        "title": "Healthcare Appointment Dataset",
+        "file_type": "Usability 8.8 · 1 File (CSV) · 2 MB",
+        "url": "https://www.kaggle.com/datasets/wajahat1064/healthcare-appointment-dataset",
+        "data_description": "Purpose:\nThis dataset contains data on whether someone would showed up for a medical appointment or not.'\n107K rows and 15 columns, 1 target variable: showed_up substantial enough to train a machine learning model\nWe can use this data to predict whether someone would show up for a medical appointment or not."
+    },
+    {
+        "title": "ChatGPT reviews [DAILY UPDATED]",
+        "file_type": "Usability 10.0 · 18 MB",
+        "url": "https://www.kaggle.com/datasets/ashishkumarak/chatgpt-reviews-daily-updated",
+        "data_description": "This dataset mainly consists of daily-updated user reviews and ratings for the ChatGPT Android App. It also contains data on the relevancy of these reviews and the dates they were posted."
+    },
+    {
+        "title": "Dataset of pdf files",
+        "file_type": "Usability 4.4 · 1078 Files (other, CSV) · 806 MB",
+        "url": "https://www.kaggle.com/datasets/manisha717/dataset-of-pdf-files",
+        "data_description": "The dataset consists of diverse PDF files covering a wide range of topics. These files include reports, articles, manuals, and more, spanning various fields such as science, technology, history, literature, and business. With its broad content, the dataset offers versatility for testing and various purposes, making it valuable for researchers, developers, educators, and enthusiasts alike."
+    },
+    {
+        "title": "Dialog Summarization",
+        "file_type": "Usability 10.0 · 10 Files (JSON, CSV) · 8 MB",
+        "url": "https://www.kaggle.com/datasets/marawanxmamdouh/dialogsum",
+        "data_description": "The \"DialogSum Corpus\" is a comprehensive dataset designed for dialogue summarization and topic generation research. It is organized into two distinct folders, one containing CSV files and the other containing the same data as JSONL files.\nDataset Summary\nDialogSum Corpus serves as an extensive repository for dialogue summarization research. Each entry in this dataset offers insights into a wide range of conversational scenarios, capturing interactions among individuals engaged in various everyday life discussions. The dialogues encompass a diverse spectrum of topics, covering areas such as schooling, work, medication, shopping, leisure, travel, and more. These conversations unfold in different real-life settings, featuring exchanges between friends, colleagues, customers, and service providers.\nLanguages\nThe dataset is exclusively presented in the English language.\nDataset Structure\nDialogSum Corpus is thoughtfully organized into distinct data instances across the CSV and JSONL formats. It comprises a total of 12,960 dialogues, including an additional 1,500 dialogues specifically allocated for testing purposes. The dataset is categorized into conventional train, test, and validation subsets, ensuring a well-balanced distribution for effective model assessment. A representative example from the training set is illustrated below:"
+    },
+    {
+        "title": "WikiSQL",
+        "file_type": "Usability 8.8 · 6 Files (JSON, CSV) · 7 MB",
+        "url": "https://www.kaggle.com/datasets/shahrukhkhan/wikisql",
+        "data_description": "A large crowd-sourced dataset for developing natural language interfaces for relational databases. WikiSQL is the dataset released along with our work Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning.\nLink: https://github.com/salesforce/WikiSQL\nNotebook: https://colab.research.google.com/drive/1dOTP5Fir04MLDD0nS8YpenwnWp8uG-de?usp=sharing\nCitation\nIf you use WikiSQL, please cite the following work:\nVictor Zhong, Caiming Xiong, and Richard Socher. 2017. Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning.\n@article{zhongSeq2SQL2017,\nauthor = {Victor Zhong and\nCaiming Xiong and\nRichard Socher},\ntitle = {Seq2SQL: Generating Structured Queries from Natural Language using\nReinforcement Learning},\njournal = {CoRR},\nvolume = {abs/1709.00103},\nyear = {2017}\n}\nNotes\nRegarding tokenization and Stanza --- when WikiSQL was written 3-years ago, it relied on Stanza, a CoreNLP python wrapper that has since been deprecated. If you'd still like to use the tokenizer, please use the docker image. We do not anticipate switching to the current Stanza as changes to the tokenizer would render the previous results not reproducible."
+    },
+    {
+        "title": "GSM8K - Grade School Math 8K Q&A",
+        "file_type": "Usability 10.0 · 4 Files (CSV) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/grade-school-math-8k-q-a",
+        "data_description": "GSM8K - Grade School Math 8K Q&A\nA Linguistically Diverse Dataset for Multi-Step Reasoning Question Answering\nBy Huggingface Hub [source]\nAbout this dataset\nThis Grade School Math 8K Linguistically Diverse Training & Test Set is designed to help you develop and improve your understanding of multi-step reasoning question answering. The dataset contains three separate data files: the socratic_test.csv, main_test.csv, and main_train.csv, each containing a set of questions and answers related to grade school math that consists of multiple steps. Each file contains the same columns: question, answer. The questions contained in this dataset are thoughtfully crafted to lead you through the reasoning journey for arriving at the correct answer each time, allowing you immense opportunities for learning through practice. With over 8 thousand entries for both training and testing purposes in this GSM8K dataset, it takes advanced multi-step reasoning skills to ace these questions! Deepen your knowledge today and master any challenge with ease using this amazing GSM8K set!"
+    },
+    {
+        "title": "SciQ (Scientific Question Answering)",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/sciq-a-dataset-for-science-question-answering",
+        "data_description": "SciQ: A Dataset for Science Question Answering\nThe Next Generation Science Standards\nSource\nHuggingface Hub: link\nAbout this dataset\nThe SciQ dataset contains 13,679 crowdsourced science exam questions about Physics, Chemistry and Biology, among others. The questions are in multiple-choice format with 4 answer options each. For the majority of the questions, an additional paragraph with supporting evidence for the correct answer is provided.\nHow to use the dataset"
+    },
+    {
+        "title": "General Language Understanding Evaluation (GLUE)",
+        "file_type": "Usability 10.0 · 34 Files (CSV) · 88 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/nli-dataset-for-sentence-understanding",
+        "data_description": "General Language Understanding Evaluation (GLUE)\nThe Famous General Language Understanding Evaluation benchmark\nSource\nHuggingface Hub: link\nAbout this dataset\nGLUE, the General Language Understanding Evaluation benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems.\nTasks"
+    },
+    {
+        "title": "Gestational Diabetes",
+        "file_type": "Usability 9.4 · 1 File (CSV) · 6 kB",
+        "url": "https://www.kaggle.com/datasets/rasooljader/gestational-diabetes",
+        "data_description": "Gestational diabetes is a type of high blood sugar that develops during pregnancy. It can occur at any stage of pregnancy and cause problems for both the mother and the baby, during and after birth. The risks can be reduced if they are early detected and managed, especially in areas where only periodic tests of pregnant women are available. Intelligent systems designed by machine learning algorithms are remodelling all fields of our lives, including the healthcare system. This study proposes a combined prediction model to diagnose gestational diabetes. The dataset was obtained from the Kurdistan region laboratories, which collected information from pregnant women with and without diabetes."
+    },
+    {
+        "title": "MMLU Dataset",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 27 MB",
+        "url": "https://www.kaggle.com/datasets/peiyuanliu2001/mmlu-dataset",
+        "data_description": "📊 Dataset Overview\nDerived from the MMLU multidisciplinary multiple-choice collection, this dataset has been tailored to align with the format of the LLM_Science competition.\n🚀 Quick Tip: The original dataset contains only four options. When merging with datasets that have five options, set column E to an empty string.\n🌟 Benefit from this dataset and let it propel your analysis to new heights! 🌟"
+    },
+    {
+        "title": "CommonsenseQA (Multiple-Choice Q&A)",
+        "file_type": "Usability 9.4 · 3 Files (CSV) · 712 kB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/new-commonsenseqa-dataset-for-multiple-choice-qu",
+        "data_description": "CommonsenseQA (Multiple-Choice Q&A)\n12,102 questions with one correct answer and four distractor answers\nSource\nHuggingface Hub: link\nAbout this dataset\nCommonsenseQA is a new multiple-choice question answering dataset that requires different types of commonsense knowledge to predict the correct answers . It contains 12,102 questions with one correct answer and four distractor answers. The dataset is provided in two major training/validation/testing set splits: \"Random split\" which is the main evaluation split, and \"Question token split\", see paper for details.\nHow to use the dataset"
+    },
+    {
+        "title": "TruthfulQA: Benchmark for Evaluating Language",
+        "file_type": "Usability 9.4 · 2 Files (CSV) · 216 kB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/truthfulqa-benchmark-for-evaluating-language-mod",
+        "data_description": "TruthfulQA: Benchmark for Evaluating Language Models' Truthfulness\nEvaluating truthfulness in language models' answers\nBy truthful_qa (From Huggingface) [source]\nAbout this dataset\nThe TruthfulQA dataset is specifically designed to evaluate the truthfulness of language models in generating answers to a wide range of questions. Comprising 817 carefully crafted questions spanning various topics such as health, law, finance, and politics, this benchmark aims to uncover any erroneous or false answers that may arise due to incorrect beliefs or misconceptions. It serves as a comprehensive measure of the ability of language models to go beyond imitating human texts and avoid generating inaccurate responses. The dataset includes columns such as type (indicating the format or style of the question), category (providing the topic or theme), best_answer (the correct and truthful answer), correct_answers (a list containing all valid responses), incorrect_answers (a list encompassing potential false interpretations provided by some humans), source (identifying the origin or reference for each question), mc1_targets and mc2_targets (highlighting respective correct answers for multiple-choice questions). The generation_validation.csv file contains generated questions and their corresponding evaluations based on truthfulness, while multiple_choice_validation.csv focuses on validating multiple-choice questions along with their answer choices. Through this dataset, researchers can comprehensively assess language model performance in terms of factual accuracy and avoidance of misleading information during answer generation tasks"
+    },
+    {
+        "title": "OpenBookQA (Multi-step Reasoning)",
+        "file_type": "Usability 10.0 · 5 Files (CSV) · 827 kB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/openbookqa-a-new-dataset-for-advanced-question-a",
+        "data_description": "OpenBookQA: A New Dataset for Advanced Question-Answering\nMulti-step Reasoning, Commonsense Knowledge, and Rich Text Comprehension\nSource\nHuggingface Hub: link\nAbout this dataset\nOpenBookQA aims to promote research in advanced question-answering, probing a deeper understanding of both the topic (with salient facts summarized as an open book, also provided with the dataset) and the language it is expressed in. In particular, it contains questions that require multi-step reasoning, use of additional common and commonsense knowledge, and rich text comprehension. OpenBookQA is a new kind of question-answering dataset modeled after open book exams for assessing human understanding of a subject."
+    },
+    {
+        "title": "HellaSwag (Commonsense NLI)",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 18 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/hellaswag-a-new-commonsense-nli-dataset",
+        "data_description": "HellaSwag (Commonsense NLI)\nCan a Machine Really Finish Your Sentence?\nSource\nPaper: link\nHuggingface Hub: link\nAbout this dataset\nHellaSwag is a dataset that tests a machine's ability to complete sentences in a way that makes sense. The dataset contains over 10,000 examples of sentence completion, with four possible endings for each sentence. The task for the machine is to choose the ending that best completes the sentence.\nThis task is difficult for a machine because it requires understanding not just the words in the sentence, but also the underlying meaning and context. For humans, this task is easy because we have years of experience understanding language and common sense. But for machines, it's a whole new challenge."
+    },
+    {
+        "title": "SuperGLUE",
+        "file_type": "Usability 9.4 · 29 Files (CSV) · 53 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/task-oriented-natural-language-understanding-dat",
+        "data_description": "SuperGLUE\nBenchmark of task-specific difficult language understanding tasks\nSources\nHuggingface Hub: link\nAbout this dataset\nSuperGLUE is a new benchmark styled after GLUE with a new set of more difficult language understanding tasks, improved resources, and a new public leaderboard.\nBoolQ (Boolean Questions, Clark et al., 2019a) is a QA task where each example consists of a short passage and a yes/no question about the passage. The questions are provided anonymously and unsolicited by users of the Google search engine, and afterwards paired with a paragraph from a Wikipedia article containing the answer. Following the original work, we evaluate with accuracy."
+    },
+    {
+        "title": "CoQA (Conversational Question Answering)",
+        "file_type": "Usability 9.4 · 2 Files (CSV) · 8 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/unlock-the-answers-broaden-your-knowledge-with-c",
+        "data_description": "CoQA (Conversational Question Answering)\n127k Questions With Answers, 8k Conversations About Text From Seven Domains.\nBy Huggingface Hub [source]\nAbout this dataset\nCoQA is an impactful and large-scale dataset of conversations, questions, and answers related to passages from seven diverse domains. This collection consists of an impressive 127,000 questions along with the answers provided by 8,000 conversations. What sets CoQA apart from other question-answering datasets is that the questions asked were conversational in nature. Each passage comes with its own set of answered queries, plus corresponding evidence emphasized in the accompanying text. With all this considered, CoQA offers a wealth of possibilities for researchers and people alike as it presents a strong compilation of data ideal for constructing various conversation/question-answering systems alike. As such this dataset can serve as a resource point not only to solve existing challenges but also stand as a platform to spur innovation within question-answering technologies moving forward"
+    },
+    {
+        "title": "Conversations on Coding, Debugging, Storytelling",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 1 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/conversations-on-coding-debugging-storytelling-s",
+        "data_description": "Conversations on Coding, Debugging, Storytelling & Science\nConversations on Coding, Debugging, Storytelling & Science\nBy Peevski (From Huggingface) [source]\nAbout this dataset\nThe OpenLeecher/GPT4-10k dataset is a comprehensive collection of 100 diverse conversations, presented in text format, revolving around a wide range of topics. These conversations cover various domains such as coding, debugging, storytelling, and science. Aimed at facilitating training and analysis purposes for researchers and developers alike, this dataset offers an extensive array of conversation samples.\nEach conversation within this dataset delves into different subject matters related to coding techniques, debugging strategies, storytelling methods; while also exploring concepts like spatial thinking, logical thinking. Furthermore, the conversations touch upon scientific fields including chemistry, physics and biology. To add further depth to the dataset's content, it also includes discussions on the topic of law."
+    },
+    {
+        "title": "OpenAI HumanEval Code Gen",
+        "file_type": "Usability 10.0 · 1 File (CSV) · 46 kB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/openai-humaneval-code-gen",
+        "data_description": "OpenAI HumanEval Code Gen\nHandcrafted Python Programming Problems for Accurate Model Evaluation\nBy Huggingface Hub [source]\nAbout this dataset\nThis dataset released by OpenAI, HumanEval, offers a unique opportunity for developers and researchers to accurately evaluate their code generation models in a safe environment. It includes 164 handcrafted programming problems written by engineers and researchers from OpenAI specificially designed to test the correctness and scalability of code generation models. Written in Python, these programming problems cover docstrings and comments full of natural English text which can be difficult for computers to comprehend. Each programming problem also includes a function signature, body as well as several unit tests. Placed under the MIT License, this HumanEval dataset is ideal for any practitioner looking to judge the efficacy of their machine-generated code with trusted results!"
+    },
+    {
+        "title": "MultiNLI Textual Entailment Corpus",
+        "file_type": "Usability 9.4 · 3 Files (CSV) · 115 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/multinli-textual-entailment-corpus",
+        "data_description": "MultiNLI Textual Entailment Corpus\nEvaluating Cross-Genre Generalization Performance\nBy Huggingface Hub [source]\nAbout this dataset\nThe MultiNLI corpus is an expansive crowd-sourced collection of 433K sentence pairs specifically developed to research general-purpose textual reasoning. Boasting frequency data across a large range of spoken and written genres, the corpus offers researchers unique insight into how language use differs by genre and has enabled evaluation of textual reasoning through cross-genre generalization tests.\nConsisting of columns for premise, premise_binary_parse, premise_parse, hypothesis, hypothesis_binary_parse, hypothesis_parse, genre and label, the MultiNLI corpus offers researchers unprecedented access to natural language inference datasets across a wide variety of sources. Its cross-genre data provides unparalleled potential for discovering linguistic similarities between domains normally considered distinct in purpose or delivery. The diverse collection provides new opportunities to develop systems that are capable of performing textual entailment tasks independently from the original source material they encountered when training. This revolutionary tool will surely become indispensable as deep learning techniques continue to advance in NLP applications!"
+    },
+    {
+        "title": "LAMBADA Word Prediction ",
+        "file_type": "Usability 10.0 · 3 Files (CSV) · 341 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/lambada-word-prediction-dataset",
+        "data_description": "LAMBADA Word Prediction\nEvaluating text understanding through word prediction\nBy lambada (From Huggingface) [source]\nAbout this dataset\nThe LAMBADA dataset, also known as LAMBADA: Evaluating Computational Models for Text Understanding, serves as a valuable resource for assessing and evaluating the language understanding and word prediction abilities of computational models. This dataset is specifically designed to test the contextual understanding of these models by providing various text samples and their corresponding domains, thus providing necessary context for effective word prediction tasks.\nComprised of three main files namely validation.csv, train.csv, and test.csv, this dataset offers a comprehensive range of data for training, validation, and testing purposes. Each file contains a collection of sentences or passages of text that serve as input for the word prediction tasks. Additionally, the domain column in each file indicates the specific domain or topic associated with the text sample. This inclusion allows computational models to be evaluated within relevant contexts and ensures accurate assessment of their performance in word prediction tasks related to specific domains."
+    },
+    {
+        "title": "AI2 ARC - Advanced Science Question ",
+        "file_type": "Usability 9.4 · 6 Files (CSV) · 755 kB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/advanced-science-question-dataset",
+        "data_description": "AI2 ARC - Advanced Science Question\nPromoting research in advanced question-answering\nBy ai2_arc (From Huggingface) [source]\nAbout this dataset\nThe ai2_arc dataset, also known as the A Challenge Dataset for Advanced Question-Answering in Grade-School Level Science, is a comprehensive and valuable resource created to facilitate research in advanced question-answering. This dataset consists of a collection of 7,787 genuine grade-school level science questions presented in multiple-choice format.\nThe primary objective behind assembling this dataset was to provide researchers with a powerful tool to explore and develop question-answering models capable of tackling complex scientific inquiries typically encountered at a grade-school level. The questions within this dataset are carefully crafted to test the knowledge and understanding of various scientific concepts in an engaging manner."
+    },
+    {
+        "title": "BoolQ - Question-Answer-Passage Consistency",
+        "file_type": "Usability 9.4 · 2 Files (CSV) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/boolq-dataset-consistent-data-fields",
+        "data_description": "BoolQ - Question-Answer-Passage Consistency\nBoolQ Dataset: Question-Answer-Passage Consistency\nBy boolq (From Huggingface) [source]\nAbout this dataset\nThe boolq dataset is a collection of data designed for question answering tasks. It is divided into two main splits: the validation split and the training split. Both splits contain the same data fields, including question, answer, and passage.\nThe dataset provides a comprehensive set of questions asked by users, along with their corresponding answers and passages from which the answers are derived. The goal of this dataset is to facilitate research in natural language processing and machine learning, specifically in tasks related to answering questions based on given text.\nIn the validation split, users can find a wide range of questions spanning various topics and domains. Each question is associated with its correct answer as well as the relevant passage from which it can be inferred or extracted. This allows researchers to train and evaluate models on real-world scenarios where information needs to be retrieved or comprehended from textual sources."
+    },
+    {
+        "title": "WinoGrande",
+        "file_type": "Usability 9.4 · 18 Files (CSV) · 3 MB",
+        "url": "https://www.kaggle.com/datasets/thedevastator/winogrande-a-new-and-improved-reasoning-challeng",
+        "data_description": "WinoGrande\nCollection of 44k problems, inspired by Winograd Schema Challenge\nSource\nHuggingface Hub: link\nAbout this dataset\nWinoGrande is a new collection of 44k problems, inspired by Winograd Schema Challenge (Levesque, Davis, and Morgenstern 2011), but adjusted to improve the scale and robustness against the dataset-specific bias. Formulated as a fill-in-a-blank task with binary options, the goal is to choose the right option for a given sentence which requires commonsense reasoning.\nHow to use the dataset"
+    }
+]
